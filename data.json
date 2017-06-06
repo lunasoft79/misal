@@ -1,8 +1,8 @@
 {
     "data": [{
         "titulo": "Enero de 2017",
-        "subtitulo": "Disponible Online",
-        "contenido": "https://lunasoft79.github.io/misal/enero2017.json",
+        "subtitulo": "Disponible",
+        "contenido": "enero2017.json",
         "activo": "si",
         "imagen": "enero",
         "id": "1"
