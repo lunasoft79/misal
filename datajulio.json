@@ -1,49 +1,49 @@
 {
     "data": [{
         "titulo": "Enero de 2017",
-        "subtitulo": "<span style='color:#8A0808;'>Disponible con Internet 2</span>",
+        "subtitulo": "<span style='color:#DF0101;'>Disponible con Internet</span>",
         "contenido": "https://lunasoft79.github.io/misal/enero2017.json",
         "activo": "si",
         "imagen": "enero",
         "id": "1"
     }, {
         "titulo": "Febrero de 2017",
-        "subtitulo": "Disponible con Internet",
+        "subtitulo": "<span style='color:#DF0101;'>Disponible con Internet</span>",
         "contenido": "https://lunasoft79.github.io/misal/febrero2017.json",
         "activo": "si",
         "imagen": "febrero",
         "id": "2"
     }, {
         "titulo": "Marzo de 2017",
-        "subtitulo": "Disponible con Internet",
+        "subtitulo": "<span style='color:#DF0101;'>Disponible con Internet</span>",
         "contenido": "https://lunasoft79.github.io/misal/marzo2017.json",
         "activo": "si",
         "imagen": "marzo",
         "id": "3"
     }, {
         "titulo": "Abril de 2017",
-        "subtitulo": "Disponible con Internet",
+        "subtitulo": "<span style='color:#DF0101;'>Disponible con Internet</span>",
         "contenido": "https://lunasoft79.github.io/misal/abril2017.json",
         "activo": "si",
         "imagen": "abril",
         "id": "4"
     }, {
         "titulo": "Mayo de 2017",
-        "subtitulo": "<span style='color:#21610B;'>Disponible</span>",
+        "subtitulo": "<span style='color:#01DF01;'>Disponible</span>",
         "contenido": "mayo2017.json",
         "activo": "si",
         "imagen": "mayo",
         "id": "5"
     }, {
         "titulo": "Junio de 2017",
-        "subtitulo": "Disponible",
+        "subtitulo": "<span style='color:#01DF01;'>Disponible</span>",
         "contenido": "junio2017.json",
         "activo": "si",
         "imagen": "junio",
         "id": "6"
     }, {
         "titulo": "Julio de 2017",
-        "subtitulo": "Disponible",
+        "subtitulo": "<span style='color:#01DF01;'>Disponible</span>",
         "contenido": "julio2017.json",
         "activo": "si",
         "imagen": "julio",
