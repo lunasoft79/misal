@@ -37,15 +37,15 @@
     }, {
         "titulo": "Junio de 2017",
         "subtitulo": "Disponible",
-        "contenido": "junio2017.json",
+        "contenido": "https://lunasoft79.github.io/misal/junio2017.json",
         "activo": "si",
         "imagen": "junio",
         "id": "6"
     }, {
         "titulo": "Julio de 2017",
-        "subtitulo": "No Disponible",
-        "contenido": "julio2017.json",
-        "activo": "no",
+        "subtitulo": "Actualiza la App",
+        "contenido": "https://lunasoft79.github.io/misal/julio2017.json",
+        "activo": "si",
         "imagen": "julio",
         "id": "7"
     }, {
