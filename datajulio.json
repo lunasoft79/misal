@@ -29,8 +29,8 @@
         "id": "4"
     }, {
         "titulo": "Mayo de 2017",
-        "subtitulo": "Disponible con Internet",
-        "contenido": "https://lunasoft79.github.io/misal/mayo2017.json",
+        "subtitulo": "Disponible",
+        "contenido": "mayo2017.json",
         "activo": "si",
         "imagen": "mayo",
         "id": "5"
