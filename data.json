@@ -43,8 +43,8 @@
         "id": "6"
     }, {
         "titulo": "Julio de 2017",
-        "subtitulo": "No Disponible",
-        "contenido": "julio2017.json",
+        "subtitulo": "Para tenerlo sin conexion, actualiza la app",
+        "contenido": "https://lunasoft79.github.io/misal/julio2017.json",
         "activo": "no",
         "imagen": "julio",
         "id": "7"
