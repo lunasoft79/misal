@@ -1,7 +1,7 @@
 {
     "data": [{
         "titulo": "Enero de 2017",
-        "subtitulo": "Disponible con Internet",
+        "subtitulo": "<span style='color:#8A0808;'>Disponible con Internet</span>",
         "contenido": "https://lunasoft79.github.io/misal/enero2017.json",
         "activo": "si",
         "imagen": "enero",
@@ -29,7 +29,7 @@
         "id": "4"
     }, {
         "titulo": "Mayo de 2017",
-        "subtitulo": "Disponible",
+        "subtitulo": "<span style='color:#21610B;'>Disponible</span>",
         "contenido": "mayo2017.json",
         "activo": "si",
         "imagen": "mayo",
