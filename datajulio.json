@@ -29,21 +29,21 @@
         "id": "4"
     }, {
         "titulo": "Mayo de 2017",
-        "subtitulo": "<span style='color:#01DF01;'>Disponible</span>",
+        "subtitulo": "<span style='color:#01DF01;'>Disponible sin Internet</span>",
         "contenido": "mayo2017.json",
         "activo": "si",
         "imagen": "mayo",
         "id": "5"
     }, {
         "titulo": "Junio de 2017",
-        "subtitulo": "<span style='color:#01DF01;'>Disponible</span>",
+        "subtitulo": "<span style='color:#01DF01;'>Disponible sin Internet</span>",
         "contenido": "junio2017.json",
         "activo": "si",
         "imagen": "junio",
         "id": "6"
     }, {
         "titulo": "Julio de 2017",
-        "subtitulo": "<span style='color:#01DF01;'>Disponible</span>",
+        "subtitulo": "<span style='color:#01DF01;'>Disponible sin Internet</span>",
         "contenido": "julio2017.json",
         "activo": "si",
         "imagen": "julio",
