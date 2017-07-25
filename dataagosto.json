@@ -29,7 +29,7 @@
         "id": "4"
     }, {
         "titulo": "Mayo de 2017",
-        "subtitulo": "<img src='images/cm.png'><span style='color:#8CC63E;'>Disponible con Internet</span>",
+        "subtitulo": "<img src='images/cm.png'><span style='color:#AA8ED5;'>Disponible con Internet</span>",
         "contenido": "https://lunasoft79.github.io/misal/mayo2017.json",
         "activo": "si",
         "imagen": "mayo",
@@ -50,7 +50,7 @@
         "id": "7"
     }, {
         "titulo": "Agosto de 2017",
-        "subtitulo": "<img src='images/cv.png'><span style='color:#E03841;'>Disponible sin Internet</span>",
+        "subtitulo": "<img src='images/cv.png'><span style='color:#8CC63E;'>Disponible sin Internet</span>",
         "contenido": "agosto2017.json",
         "activo": "no",
         "imagen": "agosto",
