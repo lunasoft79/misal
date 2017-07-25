@@ -52,7 +52,7 @@
         "titulo": "Agosto de 2017",
         "subtitulo": "<img src='images/cv.png'><span style='color:#8CC63E;'>Disponible sin Internet</span>",
         "contenido": "agosto2017.json",
-        "activo": "no",
+        "activo": "si",
         "imagen": "agosto",
         "id": "8"
     }, {
