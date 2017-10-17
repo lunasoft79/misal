@@ -50,30 +50,30 @@
         "id": "7"
     }, {
         "titulo": "Agosto de 2017",
-        "subtitulo": "<img src='images/cv.png'><span style='color:#8CC63E;'>Disponible sin Internet</span>",
+        "subtitulo": "<img src='images/cm.png'><span style='color:#AA8ED5;'>Disponible con Internet</span>",
         "contenido": "https://lunasoft79.github.io/misal/agosto2017.json",
         "activo": "si",
         "imagen": "agosto",
         "id": "8"
     }, {
         "titulo": "Septiembre de 2017",
-        "subtitulo": "<img src='images/cv.png'><span style='color:#8CC63E;'>Disponible sin Internet</span>",
-        "contenido": "septiembre2017.json",
+        "subtitulo": "<img src='images/cm.png'><span style='color:#AA8ED5;'>Disponible con Internet</span>",
+        "contenido": "https://lunasoft79.github.io/misal/septiembre2017.json",
         "activo": "si",
         "imagen": "septiembre",
         "id": "9"
     }, {
         "titulo": "Octubre de 2017",
-        "subtitulo": "<img src='images/cr.png'><span style='color:#E03841;'>No Disponible</span>",
+        "subtitulo": "<img src='images/cv.png'><span style='color:#8CC63E;'>Disponible sin Internet</span>",
         "contenido": "octubre2017.json",
-        "activo": "no",
+        "activo": "si",
         "imagen": "octubre",
         "id": "10"
     }, {
         "titulo": "Noviembre de 2017",
-        "subtitulo": "<img src='images/cr.png'><span style='color:#E03841;'>No Disponible</span>",
+        "subtitulo": "<img src='images/cv.png'><span style='color:#8CC63E;'>Disponible sin Internet</span>",
         "contenido": "noviembre2017.json",
-        "activo": "no",
+        "activo": "si",
         "imagen": "noviembre",
         "id": "11"
     }, {
