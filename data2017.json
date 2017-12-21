@@ -72,14 +72,14 @@
     }, {
         "titulo": "Noviembre de 2017",
         "subtitulo": "<img src='images/cm.png'><span style='color:#AA8ED5;'>Disponible con Internet</span>",
-        "contenido": "noviembre2017.json",
+        "contenido": "https://lunasoft79.github.io/misal/noviembre2017.json",
         "activo": "si",
         "imagen": "noviembre",
         "id": "11"
     }, {
         "titulo": "Diciembre de 2017",
         "subtitulo": "<img src='images/cm.png'><span style='color:#AA8ED5;'>Disponible con Internet</span>",
-        "contenido": "diciembre2017.json",
+        "contenido": "https://lunasoft79.github.io/misal/diciembre2017.json",
         "activo": "si",
         "imagen": "diciembre",
         "id": "12"
