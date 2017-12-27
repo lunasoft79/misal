@@ -2,7 +2,7 @@
     "data": [{
         "titulo": "Enero de 2018",
         "subtitulo": "<img src='images/cv.png'><span style='color:#8CC63E;'>Disponible sin Internet</span>",
-        "contenido": "https://lunasoft79.github.io/misal/enero2018.json",
+        "contenido": "enero2018.json",
         "activo": "si",
         "imagen": "enero",
         "id": "1"
