@@ -78,8 +78,8 @@
         "id": "11"
     }, {
         "titulo": "Diciembre de 2017",
-        "subtitulo": "<img src='images/cm.png'><span style='color:#AA8ED5;'>Disponible con Internet</span>",
-        "contenido": "https://lunasoft79.github.io/misal/diciembre2017.json",
+        "subtitulo": "<img src='images/cv.png'><span style='color:#8CC63E;'>Disponible sin Internet</span>",
+        "contenido": "diciembre2017.json",
         "activo": "si",
         "imagen": "diciembre",
         "id": "12"
