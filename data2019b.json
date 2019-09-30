@@ -1,0 +1,87 @@
+{
+    "data": [{
+        "titulo": "Enero de 2019",
+        "subtitulo": "<img src='images/cm.png'><span style='color:#AA8ED5;'>Disponible</span>",
+        "contenido": "https://lunasoft79.github.io/misal/2019/enero2019.json",
+        "activo": "si",
+        "imagen": "enero",
+        "id": "1"
+    }, {
+        "titulo": "Febrero de 2019",
+        "subtitulo": "<img src='images/cm.png'><span style='color:#AA8ED5;'>Disponible</span>",
+        "contenido": "https://lunasoft79.github.io/misal/2019/febrero2019.json",
+        "activo": "si",
+        "imagen": "febrero",
+        "id": "2"
+    }, {
+        "titulo": "Marzo de 2019",
+        "subtitulo": "<img src='images/cm.png'><span style='color:#AA8ED5;'>Disponible</span>",
+        "contenido": "https://lunasoft79.github.io/misal/2019/marzo2019.json",
+        "activo": "si",
+        "imagen": "marzo",
+        "id": "3"
+    }, {
+        "titulo": "Abril de 2019",
+        "subtitulo": "<img src='images/cm.png'><span style='color:#AA8ED5;'>Disponible</span>",
+        "contenido": "https://lunasoft79.github.io/misal/2019/abril2019.json",
+        "activo": "si",
+        "imagen": "abril",
+        "id": "4"
+    }, {
+        "titulo": "Mayo de 2019",
+        "subtitulo": "<img src='images/cm.png'><span style='color:#AA8ED5;'>Disponible</span>",
+        "contenido": "https://lunasoft79.github.io/misal/2019/mayo2019.json",
+        "activo": "si",
+        "imagen": "mayo",
+        "id": "5"
+    }, {
+        "titulo": "Junio de 2019",
+        "subtitulo": "<img src='images/cm.png'><span style='color:#AA8ED5;'>Disponible</span>",
+        "contenido": "https://lunasoft79.github.io/misal/2019/junio2019.json",
+        "activo": "si",
+        "imagen": "junio",
+        "id": "6"
+    }, {
+        "titulo": "Julio de 2019",
+        "subtitulo": "<img src='images/cm.png'><span style='color:#AA8ED5;'>Disponible</span>",
+        "contenido": "https://lunasoft79.github.io/misal/2019/julio2019.json",
+        "activo": "si",
+        "imagen": "julio",
+        "id": "7"
+    }, {
+        "titulo": "Agosto de 2019",
+        "subtitulo": "<img src='images/cm.png'><span style='color:#AA8ED5;'>Disponible</span>",
+        "contenido": "https://lunasoft79.github.io/misal/2019/agosto2019.json",
+        "activo": "si",
+        "imagen": "agosto",
+        "id": "8"
+    }, {
+        "titulo": "Septiembre de 2019",
+        "subtitulo": "<img src='images/cm.png'><span style='color:#AA8ED5;'>Disponible</span>",
+        "contenido": "https://lunasoft79.github.io/misal/2019/septiembre2019.json",
+        "activo": "si",
+        "imagen": "septiembre",
+        "id": "9"
+    }, {
+        "titulo": "Octubre de 2019",
+        "subtitulo": "<img src='images/cv.png'><span style='color:#8CC63E;'>Disponible</span>",
+        "contenido": "https://lunasoft79.github.io/misal/2019/octubre2019.json",
+        "activo": "si",
+        "imagen": "octubre",
+        "id": "10"
+    }, {
+        "titulo": "Noviembre de 2019",
+        "subtitulo": "<img src='images/cr.png'><span style='color:#E03841;'>No Disponible</span>",
+        "contenido": "noviembre2019.json",
+        "activo": "no",
+        "imagen": "noviembre",
+        "id": "11"
+    }, {
+        "titulo": "Diciembre de 2019",
+        "subtitulo": "<img src='images/cr.png'><span style='color:#E03841;'>No Disponible</span>",
+        "contenido": "diciembre2019.json",
+        "activo": "no",
+        "imagen": "diciembre",
+        "id": "12"
+    }]
+}
