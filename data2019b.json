@@ -72,8 +72,8 @@
     }, {
         "titulo": "Noviembre de 2019",
         "subtitulo": "<img src='images/cr.png'><span style='color:#E03841;'>No Disponible</span>",
-        "contenido": "noviembre2019.json",
-        "activo": "no",
+        "contenido": "https://lunasoft79.github.io/misal/2019/noviembre2019.json",
+        "activo": "si",
         "imagen": "noviembre",
         "id": "11"
     }, {
