@@ -64,21 +64,21 @@
         "id": "9"
     }, {
         "titulo": "Octubre de 2020",
-        "subtitulo": "<img src='images/cv.png'><span style='color:#8CC63E;'>Disponible</span>",
+        "subtitulo": "<img src='images/cr.png'><span style='color:#E03841;'>No Disponible</span>",
         "contenido": "octubre2020.json",
         "activo": "no",
         "imagen": "octubre",
         "id": "10"
     }, {
         "titulo": "Noviembre de 2020",
-        "subtitulo": "<img src='images/cv.png'><span style='color:#8CC63E;'>Disponible</span>",
+        "subtitulo": "<img src='images/cr.png'><span style='color:#E03841;'>No Disponible</span>",
         "contenido": "noviembre2020.json",
         "activo": "no",
         "imagen": "noviembre",
         "id": "11"
     }, {
         "titulo": "Diciembre de 2020",
-        "subtitulo": "<img src='images/cv.png'><span style='color:#8CC63E;'>Disponible</span>",
+        "subtitulo": "<img src='images/cr.png'><span style='color:#E03841;'>No Disponible</span>",
         "contenido": "diciembre2020.json",
         "activo": "no",
         "imagen": "diciembre",
