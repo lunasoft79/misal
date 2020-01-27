@@ -8,9 +8,9 @@
         "id": "1"
     }, {
         "titulo": "Febrero de 2020",
-        "subtitulo": "<img src='images/cr.png'><span style='color:#E03841;'>No Disponible</span>",
-        "contenido": "febrero2020.json",
-        "activo": "no",
+        "subtitulo": "<img src='images/cv.png'><span style='color:#AA8ED5;'>Disponible</span>",
+        "contenido": "https://lunasoft79.github.io/misal/2020/febrero2020.json",
+        "activo": "si",
         "imagen": "febrero",
         "id": "2"
     }, {
