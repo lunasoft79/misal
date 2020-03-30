@@ -22,9 +22,9 @@
         "id": "3"
     }, {
         "titulo": "Abril de 2020",
-        "subtitulo": "<img src='images/cr.png'><span style='color:#E03841;'>No Disponible</span>",
-        "contenido": "abril2020.json",
-        "activo": "no",
+        "subtitulo": "<img src='images/cv.png'><span style='color:#AA8ED5;'>Disponible</span>",
+        "contenido": "https://lunasoft79.github.io/misal/2020/abril2020.json",
+        "activo": "si",
         "imagen": "abril",
         "id": "4"
     }, {
