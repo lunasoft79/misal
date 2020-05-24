@@ -36,9 +36,9 @@
         "id": "5"
     }, {
         "titulo": "Junio de 2020",
-        "subtitulo": "<img src='images/cr.png'><span style='color:#E03841;'>No Disponible</span>",
-        "contenido": "junio2020.json",
-        "activo": "no",
+        "subtitulo": "<img src='images/cv.png'><span style='color:#AA8ED5;'>Disponible</span>",
+        "contenido": "https://lunasoft79.github.io/misal/2020/junio2020.json",
+        "activo": "si",
         "imagen": "junio",
         "id": "6"
     }, {
