@@ -43,9 +43,9 @@
         "id": "6"
     }, {
         "titulo": "Julho",
-        "subtitulo": "<img src='images/cr.png'><span style='color:#E03841;'>Não Disponível</span>",
+        "subtitulo": "<img src='images/cm.png'><span style='color:#AA8ED5;'>Acessível</span>",
         "contenido": "2020/julio2020-por",
-        "activo": "no",
+        "activo": "si",
         "imagen": "julio",
         "id": "7"
     }, {
