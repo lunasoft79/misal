@@ -50,9 +50,9 @@
         "id": "7"
     }, {
         "titulo": "Agosto de",
-        "subtitulo": "<img src='images/cr.png'><span style='color:#E03841;'>No Disponible</span>",
+        "subtitulo": "<img src='images/cm.png'><span style='color:#AA8ED5;'>Disponible</span>",
         "contenido": "2020/agosto2020",
-        "activo": "no",
+        "activo": "si",
         "imagen": "agosto",
         "id": "8"
     }, {
