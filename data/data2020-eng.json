@@ -64,9 +64,9 @@
         "id": "9"
     }, {
         "titulo": "October",
-        "subtitulo": "<img src='images/cr.png'><span style='color:#E03841;'>Not Available</span>",
+        "subtitulo": "<img src='images/cm.png'><span style='color:#AA8ED5;'>Available</span>",
         "contenido": "2020/octubre2020-eng",
-        "activo": "no",
+        "activo": "si",
         "imagen": "octubre",
         "id": "10"
     }, {
