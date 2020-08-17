@@ -57,9 +57,9 @@
         "id": "8"
     }, {
         "titulo": "Septiembre de",
-        "subtitulo": "<img src='images/cr.png'><span style='color:#E03841;'>No Disponible</span>",
+        "subtitulo": "<img src='images/cm.png'><span style='color:#AA8ED5;'>Disponible</span>",
         "contenido": "2020/septiembre2020",
-        "activo": "no",
+        "activo": "si",
         "imagen": "septiembre",
         "id": "9"
     }, {
