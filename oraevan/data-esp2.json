@@ -1,0 +1,101 @@
+{
+	"array": [
+		{
+			"id": "1",
+			"nombre": "La Señal de la Cruz",
+      "imagen":"cruz",
+			"desc": "Es la señal del cristiano. En la Cruz murió Cristo para salvar a los hombres de sus pecados.",
+			"contenido": "Por la señal de la Santa Cruz (+ en la frente), <br />de nuestros enemigos (+ en la boca), <br />líbranos Señor, Dios nuestro (+ en el pecho).<br />En el nombre del Padre, y del Hijo, y del Espíritu Santo (+ de la frente al pecho, del hombro izquierdo, al derecho).<br />Amén."
+		},{
+			"id": "2",
+			"nombre": "Padre Nuestro",
+      "imagen":"padre",
+			"desc": "Jesús mismo nos enseñó esta oración. Es la Oración de los hijos de Dios.",
+			"contenido": "Padre nuestro,<br />que estás en el cielo,<br />santificado sea tu Nombre;<br />venga a nosotros tu reino;<br />hágase tu voluntad<br />en la tierra como en el cielo.<br /><br />Danos hoy nuestro pan de cada día;<br />perdona nuestras ofensas,<br />como también nosotros perdonamos<br />a los que nos ofenden;<br />no nos dejes caer en la tentación,<br />y líbranos del mal. Amén."
+		},
+		{
+			"id": "3",
+			"nombre": "Ave María",
+      "imagen":"ave",
+			"desc": "Repetimos las palabras del Ángel Gabriel, de Santa Isabel y las súplicas que los cristianos han dirigido a su Madre desde siempre.",
+			"contenido": "Dios te salve María<br />llena eres de gracia<br />el Señor es contigo;<br />bendita tú eres<br />entre todas las mujeres,<br />y bendito es el fruto<br />de tu vientre, Jesús.<br /><br />Santa María, Madre de Dios,<br />ruega por nosotros, pecadores,<br />ahora y en la ahora<br />de nuestra muerte. Amén"
+		},
+		{
+			"id": "4",
+			"nombre": "Gloria",
+      "imagen":"bible",
+			"desc": "Es un canto de alabanza a la Santísima Trinidad.",
+			"contenido": "Gloria al Padre, y al Hijo, y al Espíritu<br />Santo. Como era en el principio, ahora<br />y siempre, por los siglos de los siglos.<br />Amén."
+		},
+		{
+			"id": "5",
+			"nombre": "Credo de los Apóstoles",
+      "imagen":"credo",
+			"desc": "Es un resumen de lo que Dios ha revelado a los hombres a través de Jesucristo y la Iglesia lo enseña. Los cristianos tenemos en el Credo un resumen de nuestra fe.",
+			"contenido": "Creo en Dios Padre todopoderoso,<br />creador del cielo y de la tierra.<br />Creo en Jesucristo, su único Hijo, nuestro Señor;<br />que fue concebido por obra y gracia del Espíritu Santo,<br />nació de Santa María Virgen;<br />padeció bajo el poder de Poncio Pilatos,<br />fue crucificado, muerto y sepultado;<br />descendió a los infiernos,<br />al tercer día resucitó de entre los muertos;<br />subió a los cielos y está sentado a la diestra de Dios Padre<br />desde allí ha de venir a juzgar a los vivos y a los muertos.<br />Creo en el Espíritu Santo;<br />la Santa Iglesia Católica,<br />la comunión de los Santos;<br />el perdón de los pecados;<br />la resurrección de los muertos;<br />y la vida eterna.<br />Amén."
+		},
+		{
+			"id": "6",
+			"nombre": "Salve",
+      "imagen":"salve",
+			"desc": "Es una súplica confiada a la Madre de Cristo, y Madre de cada uno de los hombres.",
+			"contenido": "Dios te salve, Reina y Madre de misericordia,<br />vida y dulzura y esperanza nuestra:<br />Dios te salve. A ti llamamos los desterrados hijos de Eva;<br />a ti suspiramos, gimiendo y llorando en este valle de lágrimas.<br />Ea, pues, Señora abogada nuestra,<br />vuelve a nosotros esos tus ojos misericordiosos<br />y, después de este destierro, muéstranos a Jesús,<br />fruto bendito de tu vientre.<br />¡Oh clementísima! ¡oh piadosa! ¡oh dulce Virgen María!<br /><br />V. Ruega por nosotros santa Madre de Dios,<br />R. Para que seamos dignos de alcanzar las promesas<br />de nuestro Señor Jesucristo.<br />Amén."
+		},
+		{
+			"id": "7",
+			"nombre": "Acto de contrición",
+      "imagen":"jesus",
+			"desc": "Es un modo de pedir perdón a Jesús por nuestros pecados.",
+			"contenido": "Jesús mi Señor y Redentor, yo me arrepiento de todos los pecados que he cometido hasta hoy, y me pesa de todo corazón, porque con ellos ofendí a un Dios tan bueno. <br />Propongo firmemente no volver a pecar y confío en que, por tu infinita misericordia, me has de conceder el perdón de mis culpas y me has de llevar a la vida eterna.<br />Amén."
+		},
+		{
+			"id": "8",
+			"nombre": "Salve Regina",
+      "imagen":"rosary",
+			"desc": "También conocida como La Salve es una de las más conocidas oraciones María Madre.",
+			"contenido": "Dios te salve, Reina <br />y Madre de misericordia,<br />vida, dulzura y esperanza nuestra;<br />Dios te salve.<br />A ti llamamos <br />los desterrados hijos de Eva;<br />a ti suspiramos, gimiendo y llorando<br />en este valle de lágrimas.<br />Ea, pues, Señora, abogada nuestra,<br />vuelve a nosotros esos tus ojos <br />misericordiosos;<br />y después de este destierro, <br />muéstranos a Jesús,<br />fruto bendito de tu vientre.<br /><br />¡Oh, clementísima, oh piadosa, <br />oh dulce Virgen María!<br />Amén."
+		},
+		{
+			"id": "9",
+			"nombre": "Espíritu Santo",
+      "imagen":"espiri",
+			"desc": "Recordamos la venida del Espíritu Santo.",
+			"contenido": "Espíritu Santo,<br />eres el alma de mi alma.<br />Te adoro humildemente.<br />Ilumíname, fortifícame,<br />guíame, consuélame.<br />Y en cuanto corresponde al plan<br />del eterno Padre Dios<br />revélame tus deseos.<br />Dame a conocer<br />lo que el Amor eterno desea de mí.<br />Dame a conocer lo que debo realizar.<br />Dame a conocer lo que debo sufrir.<br />Dame a conocer lo que, silencioso,<br />con modestia y en oración<br />debo aceptar, cargar y soportar.<br />Sí, Espíritu Santo,<br />dame a conocer tu voluntad<br />y la voluntad del Padre.<br />Pues toda mi vida<br />no quiere ser otra cosa,<br />que un continuado y perpetuo Sí<br />a los deseos y al querer<br />del eterno Padre Dios. Amén."
+		},
+		{
+			"id": "10",
+			"nombre": "Al Ángel de la Guarda",
+      "imagen":"angel",
+			"desc": "Todos tenemos nuestro ángel de la guarda. Invocarlo y tener amistad con Él es una ayuda para la vida cotidiana.",
+			"contenido": "¡Ángel de mi guarda, dulce compañía! No me desampares ni de noche ni de día. <br />No me dejes solo que me perdería. <br />Ángel de mi guarda, ruega a Dios por mí.<br />Amén."
+		},
+		{
+			"id": "11",
+			"nombre": "Magnificat",
+      "imagen":"scroll",
+			"desc": "Es un canto y una oración católica que proviene del evangelio de Lucas",
+			"contenido": "Proclama mi alma la grandeza del Señor,<br />y se alegra mi espíritu en Dios, mi Salvador;<br />porque ha mirado la humillación de su esclava.<br />Desde ahora me felicitarán todas las generaciones,<br />por el Poderoso ha hecho obras grandes en mí:<br />su nombre es santo,<br />y su misericordia llega a sus fieles<br />de generación en generación.<br />Él hace proezas con su brazo:<br />dispersa a los soberbios de corazón,<br />derriba del trono a los poderosos<br />y enaltece a los humildes,<br />a los hambrientos los colma de bienes<br />y a los ricos los despide vacíos.<br />Auxilia a Israel, su siervo,<br />acordándose de la misericordia<br />como lo había prometido a nuestros padres<br />en favor de Abrahán y su descendencia por siempre."
+		},
+		{
+			"id": "12",
+			"nombre": "Bendita sea tu pureza",
+      "imagen":"goblet",
+			"desc": "Es una oración para pedir a la Virgen la pureza en pensamientos, palabras y obras.",
+			"contenido": "Bendita sea tu pureza y eternamente lo sea, pues todo un Dios se recrea en tan graciosa belleza. <br />A Ti, celestial Princesa, Virgen Sagrada María, yo te ofrezco en este día alma, vida y corazón. <br />Mírame con compasión, no me dejes, Madre mía.<br />Amén."
+		},
+		{
+			"id": "13",
+			"nombre": "Memorare o Acordaos",
+      "imagen":"holy-ghost",
+			"desc": "Es una oración que dirigimos a la Virgen con la seguridad que vamos a ser escuchados.",
+			"contenido": "Acuérdate, ¡oh piadosísima Virgen María!, <br />que jamás se ha oído decir que ninguno de los que han acudido a tu protección, <br />implorando tu auxilio, haya sido desamparado. <br />Animado por esta confianza, a ti acudo, Madre, Virgen de las vírgenes, <br />y gimiendo bajo el peso de mis pecados me atrevo a comparecer ante ti, <br />Madre de Dios. No deseches mis súplicas, antes bien, <br />escúchalas y acógelas benignamente.<br />Amén."
+		},
+		{
+			"id": "14",
+			"nombre": "Yo Confieso",
+      "imagen":"confieso",
+			"desc": "Es una oración que se recita frecuentemente en la Santa Misa.",
+			"contenido": "Yo confieso ante Dios todopoderoso y, <br />ante ustedes, hermanos, que he pecado mucho de pensamiento, <br />palabra, obra y omisión: por mi culpa, por mi culpa, por mi gran culpa. <br />Por eso, ruego a Santa María, siempre Virgen, <br />a los Ángeles, a los Santos, y a ustedes, hermanos, <br />que intercedan por mi ante Dios, nuestro Señor.<br />Amén."
+		}
+	]
+}
