@@ -44,7 +44,8 @@
 			"id": "6",
 			"nombre": "Acto de Contrición",
       "icono":"jesus",
-			"desc": "Dios mío, <br />me arrepiento de todo corazón <br />de todos mis pecados <br />y los aborrezco, <br />porque al pecar, no sólo merezco <br />las penas establecidas por ti <br />justamente, <br />sino principalmente porque te ofendí, <br />a ti sumo Bien y digno de amor <br />por encima de todas las cosas. <br />Por eso propongo firmemente, <br />con ayuda de tu gracia, <br />no pecar más en adelante <br />y huir de toda ocasión de pecado. <br />Amén",
+			"desc": "Es un modo de pedir perdón a Jesús por nuestros pecados.",
+			"contenido": "Dios mío, <br />me arrepiento de todo corazón <br />de todos mis pecados <br />y los aborrezco, <br />porque al pecar, no sólo merezco <br />las penas establecidas por ti <br />justamente, <br />sino principalmente porque te ofendí, <br />a ti sumo Bien y digno de amor <br />por encima de todas las cosas. <br />Por eso propongo firmemente, <br />con ayuda de tu gracia, <br />no pecar más en adelante <br />y huir de toda ocasión de pecado. <br />Amén",
 			"imagen": "signore"
 		},
 		{
