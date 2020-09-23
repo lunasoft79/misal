@@ -1,0 +1,255 @@
+{
+	"data": [{
+		"id": "0",
+		"titulo": "Capítulo 1",
+		"subtitulo": "Acoso Escolar"
+	}, {
+		"id": "1",
+		"titulo": "Capítulo 2",
+		"subtitulo": "Etapa 1. Identificación del problema"
+	}, {
+		"id": "2",
+		"titulo": "Capítulo 3",
+		"subtitulo": "Etapa 2. Hipótesis alternativas respecto al problema"
+	}, {
+		"id": "3",
+		"titulo": "Capítulo 4",
+		"subtitulo": "Etapa 3. Valorar la información y las opciones disponibles"
+	}, {
+		"id": "4",
+		"titulo": "Capítulo 5",
+		"subtitulo": "Etapa 4. Elegir, y ejecutar, la mejor solución"
+	}, {
+		"id": "5",
+		"titulo": "Capítulo 6",
+		"subtitulo": "Adicción al Móvil o Celular"
+	}, {
+		"id": "6",
+		"titulo": "Capítulo 7",
+		"subtitulo": "El problema empieza cuando se abusa"
+	}, {
+		"id": "7",
+		"titulo": "Capítulo 8",
+		"subtitulo": "Identidades Asesinas"
+	}, {
+		"id": "8",
+		"titulo": "Capítulo 9",
+		"subtitulo": "Análisis de un anuncio"
+	}, {
+		"id": "9",
+		"titulo": "Capítulo 10",
+		"subtitulo": "Análisis psicológico de la Película Super Size"
+	}, {
+		"id": "10",
+		"titulo": "Capítulo 11",
+		"subtitulo": "La Depresión"
+	}, {
+		"id": "11",
+		"titulo": "Capítulo 12",
+		"subtitulo": "La Depresión - Hipótesis de Pareja"
+	}, {
+		"id": "12",
+		"titulo": "Capítulo 13",
+		"subtitulo": "La Depresión - Hipótesis de Familia"
+	}, {
+		"id": "13",
+		"titulo": "Capítulo 14",
+		"subtitulo": "La Depresión - Abordaje Terapeutico Integrador"
+	}, {
+		"id": "14",
+		"titulo": "Capítulo 15",
+		"subtitulo": "La Depresión - Técnicas"
+	}, {
+		"id": "15",
+		"titulo": "Capítulo 16",
+		"subtitulo": "La Depresión - Abordaje desde la perspectiva sistemática"
+	}, {
+		"id": "16",
+		"titulo": "Capítulo 17",
+		"subtitulo": "Tratamiento de la Depresión"
+	}, {
+		"id": "17",
+		"titulo": "Capítulo 18",
+		"subtitulo": "Análisis psicológico de la película Memento"
+	}, {
+		"id": "18",
+		"titulo": "Capítulo 19",
+		"subtitulo": "Análisis psicológico de la película “NIVEL 13”"
+	}, {
+		"id": "19",
+		"titulo": "Capítulo 20",
+		"subtitulo": "Psicología Universos simulados"
+	}, {
+		"id": "20",
+		"titulo": "Capítulo 21",
+		"subtitulo": "La sociedad de la información y las nuevas tecnologías"
+	}, {
+		"id": "21",
+		"titulo": "Capítulo 22",
+		"subtitulo": "El proceso entre la modernidad y la postmodernidad"
+	}, {
+		"id": "22",
+		"titulo": "Capítulo 23",
+		"subtitulo": "Análisis Psicológico de la serie Friends"
+	}, {
+		"id": "23",
+		"titulo": "Capítulo 24",
+		"subtitulo": "Psicología de la salud"
+	}, {
+		"id": "24",
+		"titulo": "Capítulo 25",
+		"subtitulo": "Análisis psicosocial del comportamiento colectivo ante la inmigración"
+	}, {
+		"id": "25",
+		"titulo": "Capítulo 26",
+		"subtitulo": "Conceptos de Psicología Científica"
+	}, {
+		"id": "26",
+		"titulo": "Capítulo 27",
+		"subtitulo": "Esquizofrenia: componentes de la personalidad"
+	}, {
+		"id": "27",
+		"titulo": "Capítulo 28",
+		"subtitulo": "El acoso moral en las empresas, mobbing"
+	}, {
+		"id": "28",
+		"titulo": "Capítulo 29",
+		"subtitulo": "El debate sobre el feminismo"
+	}, {
+		"id": "29",
+		"titulo": "Capítulo 30",
+		"subtitulo": "El establecimiento de la Psicología Científica"
+	}, {
+		"id": "30",
+		"titulo": "Capítulo 31",
+		"subtitulo": "Teorías sobre el pensamiento"
+	}, {
+		"id": "31",
+		"titulo": "Capítulo 32",
+		"subtitulo": "Etica en la psicología: la intervención clínica"
+	}, {
+		"id": "32",
+		"titulo": "Capítulo 33",
+		"subtitulo": "Contextualización del caso"
+	}, {
+		"id": "33",
+		"titulo": "Capítulo 34",
+		"subtitulo": "Análisis del Caso"
+	}, {
+		"id": "34",
+		"titulo": "Capítulo 35",
+		"subtitulo": "Evolución del yo social"
+	}, {
+		"id": "35",
+		"titulo": "Capítulo 36",
+		"subtitulo": "Educación Retraso Mental y Autismo"
+	}, {
+		"id": "36",
+		"titulo": "Capítulo 37",
+		"subtitulo": "Propuesta Curricular Global"
+	}, {
+		"id": "37",
+		"titulo": "Capítulo 38",
+		"subtitulo": "Objetivos y contenidos prioritarios de la Adaptación Curricular"
+	}, {
+		"id": "38",
+		"titulo": "Capítulo 39",
+		"subtitulo": "Experiencia Laboral, Flexibilidad e Identidad"
+	}, {
+		"id": "39",
+		"titulo": "Capítulo 40",
+		"subtitulo": "Fenómeno Punta de la lengua"
+	}, {
+		"id": "40",
+		"titulo": "Capítulo 41",
+		"subtitulo": "Fundamentos antropológicos del comportamiento humano: LA CULTURA"
+	}, {
+		"id": "41",
+		"titulo": "Capítulo 42",
+		"subtitulo": "Fundamentos antropológicos del comportamiento humano"
+	}, {
+		"id": "42",
+		"titulo": "Capítulo 43",
+		"subtitulo": "MARCEL MAUSS (1872-1950)"
+	}, {
+		"id": "43",
+		"titulo": "Capítulo 44",
+		"subtitulo": "Endogamia"
+	}, {
+		"id": "44",
+		"titulo": "Capítulo 45",
+		"subtitulo": "Exogamia"
+	}, {
+		"id": "45",
+		"titulo": "Capítulo 46",
+		"subtitulo": "Sociedades Agrarias"
+	}, {
+		"id": "46",
+		"titulo": "Capítulo 47",
+		"subtitulo": "Sociedad de la Información y el Conocimiento. La adicción a Internet"
+	}, {
+		"id": "47",
+		"titulo": "Capítulo 48",
+		"subtitulo": "Trastornos de Conducta"
+	}, {
+		"id": "48",
+		"titulo": "Capítulo 49",
+		"subtitulo": "Intervención en Respuesta Educativa"
+	}, {
+		"id": "49",
+		"titulo": "Capítulo 50",
+		"subtitulo": "Memoria Social"
+	}, {
+		"id": "50",
+		"titulo": "Capítulo 51",
+		"subtitulo": "Comportamiento Humano Zelig"
+	}, {
+		"id": "51",
+		"titulo": "Capítulo 52",
+		"subtitulo": "Psicología Teleasistencia"
+	}, {
+		"id": "52",
+		"titulo": "Capítulo 53",
+		"subtitulo": "Holocausto"
+	}, {
+		"id": "53",
+		"titulo": "Capítulo 54",
+		"subtitulo": "Movimientos Sociales"
+	}, {
+		"id": "54",
+		"titulo": "Capítulo 55",
+		"subtitulo": "Paisajes Psicológicos de la Globalización"
+	}, {
+		"id": "55",
+		"titulo": "Capítulo 56",
+		"subtitulo": "Dependencia Subjetiva"
+	}, {
+		"id": "56",
+		"titulo": "Capítulo 57",
+		"subtitulo": "Proceso de Aprendizaje en Comunidades de Práctica"
+	}, {
+		"id": "57",
+		"titulo": "Capítulo 58",
+		"subtitulo": "Psicología, Comunicación y Nuevas Tecnologías"
+	}, {
+		"id": "58",
+		"titulo": "Capítulo 59",
+		"subtitulo": "Psicopatologías de la memoria: Alzheimer"
+	}, {
+		"id": "59",
+		"titulo": "Capítulo 60",
+		"subtitulo": "Sociogénesis de la Psicología Científica"
+	}, {
+		"id": "60",
+		"titulo": "Capítulo 61",
+		"subtitulo": "Perspectiva Sociohistórica de las Organizaciones"
+	}, {
+		"id": "61",
+		"titulo": "Capítulo 62",
+		"subtitulo": "Aprendizaje Contexto Social"
+	}, {
+		"id": "62",
+		"titulo": "Capítulo 63",
+		"subtitulo": "Análisis Psicológico de la Película Shrek"
+	}]
+}
