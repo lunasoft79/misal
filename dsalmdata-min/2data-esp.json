@@ -2,10 +2,10 @@
 	"data": [{
 		"titulo": "Biblia del Pueblo",
 		"id": "1",
-		"libro": "ls-es-rv1960"
+		"libro": "ls-es-pueblo"
 	},{
 		"titulo": "Reina Valera (1960)",
 		"id": "1",
-		"libro": "ls-es-pueblo"
+		"libro": "ls-es-rv1960"
 	}]
 }
