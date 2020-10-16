@@ -71,14 +71,14 @@
         "id": "10"
     }, {
         "titulo": "Noviembre de",
-        "subtitulo": "<span class='miniemoji'>💔 No Disponible</span>",
+        "subtitulo": "<span class='miniemoji2'>💔 No Disponible</span>",
         "contenido": "2020/noviembre2020",
         "activo": "no",
         "imagen": "noviembre",
         "id": "11"
     }, {
         "titulo": "Diciembre de",
-        "subtitulo": "<span class='miniemoji'>💔 No Disponible</span>",
+        "subtitulo": "<span class='miniemoji2'>💔 No Disponible</span>",
         "contenido": "2020/diciembre2020",
         "activo": "no",
         "imagen": "diciembre",
