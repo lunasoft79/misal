@@ -71,16 +71,16 @@
         "id": "10"
     }, {
         "titulo": "Novembre",
-        "subtitulo": "<img src='images/cr.png'><span style='color:#E03841;'>Non disponible</span>",
+        "subtitulo": "<img src='images/cm.png'><span style='color:#AA8ED5;'>Disponible</span>",
         "contenido": "2020/noviembre2020-fra",
-        "activo": "no",
+        "activo": "si",
         "imagen": "noviembre",
         "id": "11"
     }, {
         "titulo": "Décembre",
-        "subtitulo": "<img src='images/cr.png'><span style='color:#E03841;'>Non disponible</span>",
+        "subtitulo": "<img src='images/cm.png'><span style='color:#AA8ED5;'>Disponible</span>",
         "contenido": "2020/diciembre2020-fra",
-        "activo": "no",
+        "activo": "si",
         "imagen": "diciembre",
         "id": "12"
     }]
