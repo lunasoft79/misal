@@ -78,9 +78,9 @@
         "id": "11"
     }, {
         "titulo": "Diciembre de",
-        "subtitulo": "<img src='images/cr.png'><span style='color:#E03841;'>No Disponible</span>",
+        "subtitulo": "<img src='images/cm.png'><span style='color:#AA8ED5;'>Disponible</span>",
         "contenido": "2020/diciembre2020",
-        "activo": "no",
+        "activo": "si",
         "imagen": "diciembre",
         "id": "12"
     }]
