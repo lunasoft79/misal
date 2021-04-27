@@ -29,16 +29,16 @@
         "id": "4"
     }, {
         "titulo": "Maggio",
-        "subtitulo": "<span class='miniemoji2'>💔 Non Disponibile</span>",
+        "subtitulo": "<span class='miniemoji'>💜 A Disposizione</span>",
         "contenido": "2021/mayo2021-ita",
-        "activo": "no",
+        "activo": "si",
         "imagen": "mayo",
         "id": "5"
     }, {
         "titulo": "Giugno",
-        "subtitulo": "<span class='miniemoji2'>💔 Non Disponibile</span>",
+        "subtitulo": "<span class='miniemoji'>💜 A Disposizione</span>",
         "contenido": "2021/junio2021-ita",
-        "activo": "no",
+        "activo": "si",
         "imagen": "junio",
         "id": "6"
     }, {
