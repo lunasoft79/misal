@@ -43,16 +43,16 @@
         "id": "6"
     }, {
         "titulo": "Juli",
-        "subtitulo": "<span class='miniemoji2'>💔 Nicht Ferfügbar</span>",
+        "subtitulo": "<span class='miniemoji'>💜 Verfügbar</span>",
         "contenido": "2021/julio2021-ale",
-        "activo": "no",
+        "activo": "si",
         "imagen": "julio",
         "id": "7"
     }, {
         "titulo": "August",
-        "subtitulo": "<span class='miniemoji2'>💔 Nicht Ferfügbar</span>",
+        "subtitulo": "<span class='miniemoji'>💜 Verfügbar</span>",
         "contenido": "2021/agosto2021-ale",
-        "activo": "no",
+        "activo": "si",
         "imagen": "agosto",
         "id": "8"
     }, {

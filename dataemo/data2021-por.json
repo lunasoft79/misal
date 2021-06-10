@@ -43,16 +43,16 @@
         "id": "6"
     }, {
         "titulo": "Julho",
-        "subtitulo": "<span class='miniemoji2'>💔 Não Disponível</span>",
+        "subtitulo": "<span class='miniemoji'>💜 Acessível</span>",
         "contenido": "2021/julio2021-por",
-        "activo": "no",
+        "activo": "si",
         "imagen": "julio",
         "id": "7"
     }, {
         "titulo": "Agosto",
-        "subtitulo": "<span class='miniemoji2'>💔 Não Disponível</span>",
+        "subtitulo": "<span class='miniemoji'>💜 Acessível</span>",
         "contenido": "2021/agosto2021-por",
-        "activo": "no",
+        "activo": "si",
         "imagen": "agosto",
         "id": "8"
     }, {
