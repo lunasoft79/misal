@@ -57,9 +57,9 @@
         "id": "8"
     }, {
         "titulo": "September",
-        "subtitulo": "<span class='miniemoji2'>💔 Not Available</span>",
+        "subtitulo": "<span class='miniemoji'>💜 Available</span>",
         "contenido": "2021/septiembre2021-eng",
-        "activo": "no",
+        "activo": "si",
         "imagen": "septiembre",
         "id": "9"
     }, {
