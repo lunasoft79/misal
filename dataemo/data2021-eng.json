@@ -64,16 +64,16 @@
         "id": "9"
     }, {
         "titulo": "October",
-        "subtitulo": "<span class='miniemoji2'>💔 Not Available</span>",
+        "subtitulo": "<span class='miniemoji'>💜 Available</span>",
         "contenido": "2021/octubre2021-eng",
-        "activo": "no",
+        "activo": "si",
         "imagen": "octubre",
         "id": "10"
     }, {
         "titulo": "November",
-        "subtitulo": "<span class='miniemoji2'>💔 Not Available</span>",
+        "subtitulo": "<span class='miniemoji'>💜 Available</span>",
         "contenido": "2021/noviembre2021-eng",
-        "activo": "no",
+        "activo": "si",
         "imagen": "noviembre",
         "id": "11"
     }, {
