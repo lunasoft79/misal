@@ -78,9 +78,9 @@
         "id": "11"
     }, {
         "titulo": "Dicembre",
-        "subtitulo": "<span class='miniemoji2'>💔 Non Disponibile</span>",
+        "subtitulo": "<span class='miniemoji'>💜 A Disposizione</span>",
         "contenido": "2021/diciembre2021-ita",
-        "activo": "no",
+        "activo": "si",
         "imagen": "diciembre",
         "id": "12"
     }]
