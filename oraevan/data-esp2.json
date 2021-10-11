@@ -2,100 +2,155 @@
 	"array": [
 		{
 			"id": "1",
-			"nombre": "La Señal de la Cruz",
-      "imagen":"cruz",
-			"desc": "Es la señal del cristiano. En la Cruz murió Cristo para salvar a los hombres de sus pecados.",
-			"contenido": "Por la señal de la Santa Cruz (+ en la frente), <br />de nuestros enemigos (+ en la boca), <br />líbranos Señor, Dios nuestro (+ en el pecho).<br />En el nombre del Padre, y del Hijo, y del Espíritu Santo (+ de la frente al pecho, del hombro izquierdo, al derecho).<br />Amén."
-		},{
+			"nombre": "La señal de la cruz",
+      "icono":"cruz",
+			"desc": "Es la señal del cristiano, pues en ella murió Jesús. Se acostumbra a rezarla antes de otras oraciones o previa lectura del Evangelio.",
+			"contenido": "Por la señal de la Santa<br />Cruz,<br />De nuestros enemigos<br />líbranos Señor,<br />Dios nuestro.<br />En el nombre del Padre, y<br />del Hijo, y del Espíritu Santo. Amén. ",
+			"imagen": "signocruz"
+		},
+		{
 			"id": "2",
 			"nombre": "Padre Nuestro",
-      "imagen":"padre",
-			"desc": "Jesús mismo nos enseñó esta oración. Es la Oración de los hijos de Dios.",
-			"contenido": "Padre nuestro,<br />que estás en el cielo,<br />santificado sea tu Nombre;<br />venga a nosotros tu reino;<br />hágase tu voluntad<br />en la tierra como en el cielo.<br /><br />Danos hoy nuestro pan de cada día;<br />perdona nuestras ofensas,<br />como también nosotros perdonamos<br />a los que nos ofenden;<br />no nos dejes caer en la tentación,<br />y líbranos del mal. Amén."
+      "icono":"padre",
+			"desc": "Oración por excelencia. Nos la enseñó el mismo Jesucristo y se puede rezar varias veces al día",
+			"contenido": "Padre nuestro que estás en el cielo,<br />santificado sea tu Nombre;<br />venga a nosotros tu Reino;<br />hágase tu voluntad<br />en la tierra como en el cielo.<br />Danos hoy<br />nuestro pan de cada día;<br />perdona nuestras ofensas,<br />como también nosotros perdonamos<br />a los que nos ofenden;<br />no nos dejes caer en la tentación,<br />y líbranos del mal.<br /><br />Amén.",
+			"imagen": "padrenuestro"
 		},
 		{
 			"id": "3",
 			"nombre": "Ave María",
-      "imagen":"ave",
-			"desc": "Repetimos las palabras del Ángel Gabriel, de Santa Isabel y las súplicas que los cristianos han dirigido a su Madre desde siempre.",
-			"contenido": "Dios te salve María<br />llena eres de gracia<br />el Señor es contigo;<br />bendita tú eres<br />entre todas las mujeres,<br />y bendito es el fruto<br />de tu vientre, Jesús.<br /><br />Santa María, Madre de Dios,<br />ruega por nosotros, pecadores,<br />ahora y en la ahora<br />de nuestra muerte. Amén"
+      "icono":"ave",
+			"desc": "En ella repetimos las palabras que escuchó la Virgen del Ángel. Cada vez que la rezamos, es como si regalásemos una rosa a nuestra Madre.",
+			"contenido": "Dios te salve, María,<br />llena eres de gracia,<br />el Señor es contigo.<br />Bendita tú eres entre<br />todas las mujeres,<br />y bendito es el fruto de tu vientre, Jesús.<br />Santa María, Madre de Dios,<br />ruega por nosotros, pecadores,<br />ahora y en la hora de nuestra muerte.<br />Amén",
+			"imagen": "avemaria"
 		},
 		{
 			"id": "4",
 			"nombre": "Gloria",
-      "imagen":"bible",
-			"desc": "Es un canto de alabanza a la Santísima Trinidad.",
-			"contenido": "Gloria al Padre, y al Hijo, y al Espíritu<br />Santo. Como era en el principio, ahora<br />y siempre, por los siglos de los siglos.<br />Amén."
+      "icono":"bible",
+			"desc": "Canto a la alabanza dirigido a la Santísima Trinidad. Se acostumbra a rezar para concluir otras oraciones.",
+			"contenido": "Gloria al Padre,<br />y al Hijo,<br />y al Espíritu Santo.<br />Como era en el principio,<br />ahora y siempre, por los siglos de los siglos.<br />Amén.",
+			"imagen": "gloria"
 		},
 		{
 			"id": "5",
-			"nombre": "Credo de los Apóstoles",
-      "imagen":"credo",
-			"desc": "Es un resumen de lo que Dios ha revelado a los hombres a través de Jesucristo y la Iglesia lo enseña. Los cristianos tenemos en el Credo un resumen de nuestra fe.",
-			"contenido": "Creo en Dios Padre todopoderoso,<br />creador del cielo y de la tierra.<br />Creo en Jesucristo, su único Hijo, nuestro Señor;<br />que fue concebido por obra y gracia del Espíritu Santo,<br />nació de Santa María Virgen;<br />padeció bajo el poder de Poncio Pilatos,<br />fue crucificado, muerto y sepultado;<br />descendió a los infiernos,<br />al tercer día resucitó de entre los muertos;<br />subió a los cielos y está sentado a la diestra de Dios Padre<br />desde allí ha de venir a juzgar a los vivos y a los muertos.<br />Creo en el Espíritu Santo;<br />la Santa Iglesia Católica,<br />la comunión de los Santos;<br />el perdón de los pecados;<br />la resurrección de los muertos;<br />y la vida eterna.<br />Amén."
+			"nombre": "La Salve",
+      "icono":"rosary",
+			"desc": "Es una súplica a nuestra Madre, que lo puede todo. Pedimos su amparo y protección",
+			"contenido": "Dios te salve, Reina<br />y Madre de misericordia,<br />vida, dulzura y esperanza nuestra;<br />Dios te salve.<br />A ti llamamos<br />los desterrados hijos de Eva;<br />a ti suspiramos, gimiendo y llorando<br />en este valle de lágrimas.<br />Ea, pues, Señora, abogada nuestra,<br />vuelve a nosotros esos tus ojos<br />misericordiosos;<br />y después de este destierro,<br />muéstranos a Jesús,<br />fruto bendito de tu vientre.<br /><br />¡Oh, clementísima, oh piadosa,<br />oh dulce Virgen María!",
+			"imagen": "regina"
 		},
 		{
 			"id": "6",
-			"nombre": "Salve",
-      "imagen":"salve",
-			"desc": "Es una súplica confiada a la Madre de Cristo, y Madre de cada uno de los hombres.",
-			"contenido": "Dios te salve, Reina y Madre de misericordia,<br />vida y dulzura y esperanza nuestra:<br />Dios te salve. A ti llamamos los desterrados hijos de Eva;<br />a ti suspiramos, gimiendo y llorando en este valle de lágrimas.<br />Ea, pues, Señora abogada nuestra,<br />vuelve a nosotros esos tus ojos misericordiosos<br />y, después de este destierro, muéstranos a Jesús,<br />fruto bendito de tu vientre.<br />¡Oh clementísima! ¡oh piadosa! ¡oh dulce Virgen María!<br /><br />V. Ruega por nosotros santa Madre de Dios,<br />R. Para que seamos dignos de alcanzar las promesas<br />de nuestro Señor Jesucristo.<br />Amén."
+			"nombre": "Acto de Contrición",
+      "icono":"jesus",
+			"desc": "Es un modo de pedir perdón a Jesús por nuestros pecados.",
+			"contenido": "Dios mío, <br />me arrepiento de todo corazón <br />de todos mis pecados <br />y los aborrezco, <br />porque al pecar, no sólo merezco <br />las penas establecidas por ti <br />justamente, <br />sino principalmente porque te ofendí, <br />a ti sumo Bien y digno de amor <br />por encima de todas las cosas. <br />Por eso propongo firmemente, <br />con ayuda de tu gracia, <br />no pecar más en adelante <br />y huir de toda ocasión de pecado. <br />Amén",
+			"imagen": "signore"
 		},
 		{
 			"id": "7",
-			"nombre": "Acto de contrición",
-      "imagen":"jesus",
-			"desc": "Es un modo de pedir perdón a Jesús por nuestros pecados.",
-			"contenido": "Jesús mi Señor y Redentor, yo me arrepiento de todos los pecados que he cometido hasta hoy, y me pesa de todo corazón, porque con ellos ofendí a un Dios tan bueno. <br />Propongo firmemente no volver a pecar y confío en que, por tu infinita misericordia, me has de conceder el perdón de mis culpas y me has de llevar a la vida eterna.<br />Amén."
+			"nombre": "Yo Confieso...",
+      "icono":"confieso",
+			"desc": "Confesión general que rezamos en misa dominical y en cualquier otro momento que queramos pedir perdón por pecados veniales.",
+			"contenido": "Yo confieso ante Dios Todopoderoso, <br />y ante ustedes hermanos <br />que he pecado mucho de <br />pensamiento, palabra, obra y omisión. <br />Por mi culpa, por mi culpa, por mi gran culpa.<br />Por eso ruego a Santa María siempre Virgen, <br />a los ángeles, a los santos y a ustedes hermanos, <br />que intercedan por mí ante Dios, Nuestro Señor. <br /><br />Amén.",
+			"imagen": "confesso"
 		},
 		{
 			"id": "8",
-			"nombre": "Salve Regina",
-      "imagen":"rosary",
-			"desc": "También conocida como La Salve es una de las más conocidas oraciones María Madre.",
-			"contenido": "Dios te salve, Reina <br />y Madre de misericordia,<br />vida, dulzura y esperanza nuestra;<br />Dios te salve.<br />A ti llamamos <br />los desterrados hijos de Eva;<br />a ti suspiramos, gimiendo y llorando<br />en este valle de lágrimas.<br />Ea, pues, Señora, abogada nuestra,<br />vuelve a nosotros esos tus ojos <br />misericordiosos;<br />y después de este destierro, <br />muéstranos a Jesús,<br />fruto bendito de tu vientre.<br /><br />¡Oh, clementísima, oh piadosa, <br />oh dulce Virgen María!<br />Amén."
+			"nombre": "Credo de Nicea Constantinopla",
+      "icono":"credo2",
+			"desc": "Recordamos nuestro bautismo, confesando nuestra fe. Lo rezamos en la Misa dominical.",
+			"contenido": "Creo en un solo Dios, Padre todopoderoso,<br />Creador del cielo y de la tierra,<br />de todo lo visible y lo invisible.<br /><br />Creo en un solo Señor, Jesucristo, Hijo único de Dios,<br />nacido del Padre antes de todos los siglos:<br />Dios de Dios, Luz de Luz,<br />Dios verdadero de Dios verdadero,<br />engendrado, no creado,<br />de la misma naturaleza del Padre,<br />por quien todo fue hecho;<br />que por nosotros, los hombres,<br />y por nuestra salvación bajó del cielo,<br />y por obra del Espíritu Santo<br />se encarnó de María, la Virgen, y se hizo hombre;<br />y por nuestra causa fue crucificado<br />en tiempos de Poncio Pilato;<br />padeció y fue sepultado,<br />y resucitó al tercer día, según las Escrituras,<br />y subió al cielo, y está sentado a la derecha del Padre;<br />y de nuevo vendrá con gloria<br />para juzgar a vivos y muertos,<br />y su reino no tendrá fin.<br /><br />Creo en el Espíritu Santo, Señor y dador de vida,<br />que procede del Padre y del Hijo, con el Padre y el Hijo<br />recibe una misma adoración y gloria,<br />y que habló por los profetas.<br />Creo en la Iglesia,<br />que es una, santa, católica y apostólica.<br />Confieso que hay un solo bautismo para el perdón de los pecados.<br />Espero la resurrección de los muertos y la vida del mundo futuro.<br /><br />Amén.",
+			"imagen": "niceno"
 		},
 		{
 			"id": "9",
-			"nombre": "Espíritu Santo",
-      "imagen":"espiri",
-			"desc": "Recordamos la venida del Espíritu Santo.",
-			"contenido": "Espíritu Santo,<br />eres el alma de mi alma.<br />Te adoro humildemente.<br />Ilumíname, fortifícame,<br />guíame, consuélame.<br />Y en cuanto corresponde al plan<br />del eterno Padre Dios<br />revélame tus deseos.<br />Dame a conocer<br />lo que el Amor eterno desea de mí.<br />Dame a conocer lo que debo realizar.<br />Dame a conocer lo que debo sufrir.<br />Dame a conocer lo que, silencioso,<br />con modestia y en oración<br />debo aceptar, cargar y soportar.<br />Sí, Espíritu Santo,<br />dame a conocer tu voluntad<br />y la voluntad del Padre.<br />Pues toda mi vida<br />no quiere ser otra cosa,<br />que un continuado y perpetuo Sí<br />a los deseos y al querer<br />del eterno Padre Dios. Amén."
+			"nombre": "Credo de los Apóstoles",
+      "icono":"credo",
+			"desc": "Recordamos nuestro bautismo, confesando nuestra fe. Lo rezamos en la Misa dominical.",
+			"contenido": "Creo en Dios, Padre todopoderoso,<br />Creador del cielo y de la tierra.<br /><br />Creo en Jesucristo, su único Hijo, nuestro Señor,<br />que fue concebido por obra y gracia del Espíritu Santo,<br />nació de santa María Virgen,<br />padeció bajo el poder de Poncio Pilato, fue crucificado, muerto y sepultado,<br />descendió a los infiernos,<br />al tercer día resucitó de entre los muertos,<br />subió a los cielos<br />y está sentado a la derecha de Dios, Padre todopoderoso.<br />Desde allí ha de venir a juzgar a vivos y muertos.<br /><br />Creo en el Espíritu Santo,<br />la santa Iglesia católica,<br />la comunión de los santos,<br />el perdón de los pecados,<br />la resurrección de la carne<br />y la vida eterna.<br /><br />Amén.",
+			"imagen": "apostolico"
 		},
 		{
 			"id": "10",
-			"nombre": "Al Ángel de la Guarda",
-      "imagen":"angel",
-			"desc": "Todos tenemos nuestro ángel de la guarda. Invocarlo y tener amistad con Él es una ayuda para la vida cotidiana.",
-			"contenido": "¡Ángel de mi guarda, dulce compañía! No me desampares ni de noche ni de día. <br />No me dejes solo que me perdería. <br />Ángel de mi guarda, ruega a Dios por mí.<br />Amén."
+			"nombre": "Comunión Espiritual",
+      "icono":"scroll",
+			"desc": "Preciosa oración cuando vamos a recibir la Sagrada Comunión. También para concluir la visita al Santísimo o la Bendición.",
+			"contenido": "Creo, Jesús mío,<br />que estás real y verdaderamente en el Cielo<br />y en el Santísimo Sacramento del altar.<br />Te amo sobre todas las cosas<br />y deseo vivamente recibirte dentro de mi alma,<br />pero no pudiendo hacerlo ahora sacramentalmente,<br />ven al menos espiritualmente a mi corazón.<br />Y como si ya te hubiese recibido,<br />Te abrazo y me uno del todo a Ti.<br />Señor, no permitas que jamás me aparte de Ti. <br /><br />Amén.",
+			"imagen": "comunione"
 		},
 		{
 			"id": "11",
-			"nombre": "Magnificat",
-      "imagen":"scroll",
-			"desc": "Es un canto y una oración católica que proviene del evangelio de Lucas",
-			"contenido": "Proclama mi alma la grandeza del Señor,<br />y se alegra mi espíritu en Dios, mi Salvador;<br />porque ha mirado la humillación de su esclava.<br />Desde ahora me felicitarán todas las generaciones,<br />por el Poderoso ha hecho obras grandes en mí:<br />su nombre es santo,<br />y su misericordia llega a sus fieles<br />de generación en generación.<br />Él hace proezas con su brazo:<br />dispersa a los soberbios de corazón,<br />derriba del trono a los poderosos<br />y enaltece a los humildes,<br />a los hambrientos los colma de bienes<br />y a los ricos los despide vacíos.<br />Auxilia a Israel, su siervo,<br />acordándose de la misericordia<br />como lo había prometido a nuestros padres<br />en favor de Abrahán y su descendencia por siempre."
+			"nombre": "Ángelus",
+      "icono":"angel",
+			"desc": "Se reza al mediodía (12:00) durante todo el año, menos en tiempo de pascua.",
+			"contenido": "(Verso)<br />El ángel del Señor anunció a María.<br />(Respuesta)<br />Y concibió<br />por obra y gracia del Espíritu Santo.<br />Dios te salve, María,<br />llena eres de gracia;<br />el Señor es contigo.<br />Bendita Tú eres<br />entre todas las mujeres,<br />y bendito es el fruto de tu vientre, Jesús.<br />Santa María, Madre de Dios,<br />ruega por nosotros, pecadores,<br />ahora y en la hora de nuestra muerte.<br />Amén.<br /><br />(Verso)<br />He aquí la esclava del Señor.<br />(Respuesta)<br />Hágase en mí según tu palabra.<br />Dios te salve, María...<br /><br />(Verso)<br />Y el Verbo de Dios se hizo carne.<br />(Respuesta)<br />Y habitó entre nosotros.<br />Dios te salve, María...<br /><br />(Verso)<br />Ruega por nosotros,<br />Santa Madre de Dios,<br />(Respuesta)<br />para que seamos dignos de alcanzar<br />las promesas de Jesucristo.<br /><br />Oremos:<br />Infunde, Señor,<br />tu gracia en nuestras almas,<br />para que, los que hemos conocido, por el anuncio del Ángel,<br />la Encarnación de tu Hijo Jesucristo,<br />lleguemos por los Méritos de su Pasión y su Cruz,<br />a la gloria de la Resurrección.<br />Por Jesucristo Nuestro Señor.<br />Amén.<br /><br />Gloria al Padre...",
+			"imagen": "angelus"
 		},
 		{
 			"id": "12",
-			"nombre": "Bendita sea tu pureza",
-      "imagen":"goblet",
-			"desc": "Es una oración para pedir a la Virgen la pureza en pensamientos, palabras y obras.",
-			"contenido": "Bendita sea tu pureza y eternamente lo sea, pues todo un Dios se recrea en tan graciosa belleza. <br />A Ti, celestial Princesa, Virgen Sagrada María, yo te ofrezco en este día alma, vida y corazón. <br />Mírame con compasión, no me dejes, Madre mía.<br />Amén."
+			"nombre": "Regina Coeli",
+      "icono":"holy-ghost",
+			"desc": "Se reza al mediodía (12:00) durante el tiempo de pascua en lugar del Ángelus.",
+			"contenido": "G: Reina del cielo, alégrate, aleluya.<br />T: Porque el Señor, a quien has llevado en tu vientre, aleluya.<br /><br />G: Ha resucitado según su palabra, aleluya.<br />T: Ruega al Señor por nosotros, aleluya.<br /><br />G: Goza y alégrate Virgen María, aleluya. <br />T: Porque en verdad ha resucitado el Señor, aleluya. <br /><br />Oremos:<br />Oh Dios, que por la resurrección de Tu Hijo, Nuestro Señor Jesucristo, has llenado el mundo de alegría, concédenos, por intercesión de su Madre, la Virgen María, llegar a los gozos eternos. Por Jesucristo Nuestro Señor. Amen.<br /><br />Gloria al Padre y al Hijo y al Espíritu Santo, como era en el principio ahora y siempre por los siglos de los siglos. Amen. (tres veces)",
+			"imagen": "coeli"
 		},
 		{
 			"id": "13",
-			"nombre": "Memorare o Acordaos",
-      "imagen":"holy-ghost",
-			"desc": "Es una oración que dirigimos a la Virgen con la seguridad que vamos a ser escuchados.",
-			"contenido": "Acuérdate, ¡oh piadosísima Virgen María!, <br />que jamás se ha oído decir que ninguno de los que han acudido a tu protección, <br />implorando tu auxilio, haya sido desamparado. <br />Animado por esta confianza, a ti acudo, Madre, Virgen de las vírgenes, <br />y gimiendo bajo el peso de mis pecados me atrevo a comparecer ante ti, <br />Madre de Dios. No deseches mis súplicas, antes bien, <br />escúchalas y acógelas benignamente.<br />Amén."
+			"nombre": "Bendita sea tu pureza",
+      "icono":"pureza",
+			"desc": "Un poema a nuestra Madre la Virgen.",
+			"contenido": "Bendita sea tu pureza,<br />y eternamente lo sea,<br />pues todo un Dios se recrea<br />en tan graciosa belleza.<br />A tí celestial Princesa,<br />¡Oh Virgen sagrada María!<br />Yo te ofrezco en este día,<br />alma, vida y corazón.<br />Mírame con compasión.<br />No me dejes Madre mía.",
+			"imagen": "virgen"
 		},
 		{
 			"id": "14",
-			"nombre": "Yo Confieso",
-      "imagen":"confieso",
-			"desc": "Es una oración que se recita frecuentemente en la Santa Misa.",
-			"contenido": "Yo confieso ante Dios todopoderoso y, <br />ante ustedes, hermanos, que he pecado mucho de pensamiento, <br />palabra, obra y omisión: por mi culpa, por mi culpa, por mi gran culpa. <br />Por eso, ruego a Santa María, siempre Virgen, <br />a los Ángeles, a los Santos, y a ustedes, hermanos, <br />que intercedan por mi ante Dios, nuestro Señor.<br />Amén."
+			"nombre": "Acordaos",
+      "icono":"goblet",
+			"desc": "Depositamos nuestra confianza en la Virgen y le pedimos por nosotros o por otra persona que lo necesite.",
+			"contenido": "Acordaos, <br />oh piadosísima Virgen María, <br />que jamás se ha oído decir <br />que ninguno de los que han acudido <br />a tu protección, <br />implorando tu asistencia <br />y reclamando tu socorro, <br />haya sido abandonado de ti. <br />Animado con esta confianza, <br />a ti también acudo, oh Madre, <br />Virgen de las vírgenes, <br />y aunque gimiendo <br />bajo el peso de mis pecados, <br />me atrevo a comparecer <br />ante tu presencia soberana. <br />No deseches mis humildes súplicas, <br />oh Madre del Verbo divino, <br />antes bien, escúchalas <br />y acógelas benignamente. Amén",
+			"imagen": "memorare"
+		},
+		{
+			"id": "15",
+			"nombre": "Alma de Cristo",
+      "icono":"espiri",
+			"desc": "Oración muy bonita para después de comulgar",
+			"contenido": "Alma de Cristo, santifícame.<br />Cuerpo de Cristo, sálvame.<br />Sangre de Cristo, embriágame.<br />Agua del costado de Cristo, lávame.<br />Pasión de Cristo, confórtame.<br />¡Oh, buen Jesús!, óyeme.<br />Dentro de tus llagas, escóndeme.<br />No permitas que me aparte de Ti.<br />Del maligno enemigo, defiéndeme<br />En la hora de mi muerte, llámame.<br />Y mándame ir a Ti.<br />Para que con tus santos te alabe.<br />Por los siglos de los siglos. Amén",
+			"imagen": "anima"
+		},
+		{
+			"id": "16",
+			"nombre": "Ofrecimiento de Obras",
+      "icono":"marie",
+			"desc": "Nada más levantarnos, vencemos la pereza y ofrecemos el día a nuestra Madre.",
+			"contenido": "¡Oh Señora mía! ¡Oh Madre mía!<br /><br />Yo me ofrezco enteramente a ti.<br />Y, en prueba de mi filial afecto,<br />te consagro en este día mis ojos,<br />mis oídos, ni lengua, mi corazón:<br />en una palabra, todo mi ser.<br /><br />Ya que soy todo tuyo,<br />Madre de bondad,<br />guárdame y defiéndeme<br />como cosa y posesión tuya.<br /><br />Amén.",
+			"imagen": "maria"
+		},
+		{
+			"id": "17",
+			"nombre": "Ángel de la Guarda",
+      "icono":"guardian",
+			"desc": "Se reza antes de dormir y en cualquier ocasión que pedimos protección a nuestro Ángel Custodio",
+			"contenido": "Ángel de mi guarda,<br />dulce compañía,<br />no me desampares,<br />ni de noche ni de día,<br />no me dejes solo, que me perdería,<br />hasta que me pongas, en paz y alegría,<br />con todos los santos, Jesús y María,<br />te doy el corazón y el alma mía<br />que son mas tuyos que míos.<br />Amen.",
+			"imagen": "angelo"
+		},
+		{
+			"id": "18",
+			"nombre": "Bendición de viaje",
+      "icono":"bendi",
+			"desc": "Antes de realizar cualquier viaje no viene mal una oración como esta.",
+			"contenido": "Que por la intercesión de<br />Santa María tengamos<br />(tenga, tengas, tengáis) un<br />buen viaje: que el Señor esté en nuestro (mi, tu, vuestro)<br />camino, y sus Ángeles nos (me, te, os) acompañen.<br />En el nombre del Padre y del Hijo y del Espíritu Santo.<br />Amén.",
+			"imagen": "viajero"
+		},
+		{
+			"id": "19",
+			"nombre": "Bendecir la mesa",
+      "icono":"vino",
+			"desc": "Se reza antes de cada comida para dar gracias a Dios por los alimentos.",
+			"contenido": "Bendícenos, Señor,<br />y bendice estos alimentos<br />que por tu bondad<br />vamos a tomar.<br />Por Jesucristo Nuestro Señor.<br />Amén<br />V. El rey de la eterna gloria nos haga participes de la<br />mesa celestial.<br />R. Amén.<br />V. En el nombre del Padre, del Hijo y del Espíritu Santo.<br />R. Amén.",
+			"imagen": "mesa"
 		}
 	]
 }
