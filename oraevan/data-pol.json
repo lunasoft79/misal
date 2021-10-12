@@ -12,63 +12,61 @@
 			"nombre": "Ojcze nasz",
 			"icono": "padre",
 			"desc": "Modlitwa par excellence. Nauczył nas jej sam Jezus Chrystus i można ją odmawiać kilka razy dziennie",
-			"contenido": "Ojcze nasz, który jesteś w niebie,<br />Święć się Twoje Imię;<br />Przyjdź Królestwo Twoje;<br />Bądź wola Twoja<br />na ziemi tak, jak jest w niebie.<br /><br />Daj nam dzisiaj<br />naszego chleba powszedniego,<br />przebacz nam nasze winy,<br />tak jak i my przebaczamy<br /> tym, którzy nas obrażają,<br />nie zostawiaj nas w pokusie ,<br />i wybaw nas od złego.<br /><br />Amen. ",
+			"contenido": "Ojcze nasz, któryś jest w niebie, święć się imię Twoje; <br />przyjdź królestwo Twoje; <br />bądź wola Twoja jako w niebie, tak i na ziemi. <br /><br />Chleba naszego powszedniego daj nam dzisiaj; <br />i odpuść nam nasze winy, jako i my odpuszczamy naszym winowajcom; <br />i nie wódź nas na pokuszenie, ale nas zbaw ode Złego.<br /> Amen.",
 			"imagen": "padrenuestro"
 		},
 		{
 			"id": "3",
 			"nombre": "Ave Maria",
 			"icono": "ave",
-			"desc": "W nim powtarzamy słowa, które usłyszała Dziewica od Anioła. Za każdym razem, gdy się o to modlimy, to tak, jakbyśmy dali różę naszej Matce.",
-			"contenido": "Boże, chroń cię, Maryjo, <br />jesteś pełna łaski,<br />Pan jest z tobą.<br />Błogosławiona jesteś między<br />wszystkimi niewiastami,<br /> i błogosławiony owoc żywota Twego, Jezus.<br />Święta Maryjo Matko Boża,<br />módl się za nami grzesznymi,<br />teraz iw godzinę śmierci naszej.<br />Amen.",
+			"desc": "Zdrowaś Maryjo, łaski pełna, Pan z Tobą,<br />błogosławionaś Ty między niewiastami,<br />i błogosławiony owoc żywota Twojego, Jezus.<br />Święta Maryjo, Matko Boża, módl się za nami grzesznymi<br />teraz i w godzinę śmierci naszej. Amen",
 			"imagen": "avemaria"
 		},
 		{
 			"id": "4",
-			"nombre": "Gloria",
+			"nombre": "Chwała Ojcu",
 			"icono": "bible",
 			"desc": "Pieśń uwielbienia skierowana do Trójcy Świętej. Zwyczajowo odmawia się modlitwy na zakończenie innych modlitw.",
-			"contenido": "Chwała Ojcu,<br />i Synowi,<br />i Duchowi Świętemu.<br />Jak było na początku,<br />teraz i na wieki wieków i kiedykolwiek .<br />Amen.",
+			"contenido": "Chwała Ojcu i Synowi, i Duchowi Świętemu. <br />Jak była na początku, teraz i zawsze, i na wieki wieków.<br /> Amen",
 			"imagen": "gloria"
 		},
 		{
 			"id": "5",
-			"nombre": "La Salve",
+			"nombre": "Witaj Królowo",
 			"icono": "rosary",
 			"desc": "To prośba do naszej Matki, która może wszystko. Prosimy o Jej opiekę i opiekę",
-			"contenido": "Boże chroń Cię, Królowo<br />i Matko miłosierdzia,<br />nasze życie, słodycz i nadziejo;<br />Boże chroń Cię.<br />Nazywamy Cię<br /> wygnani synowie Ewy;<br />do Ciebie wzdychamy, jęczymy i płaczemy<br />w tej dolinie łez.<br /> Pójdź więc, Pani, nasza Orędowniczko,<br /> zwróć te oczy z powrotem na nas <br />miłosierni,<br />a po tym wygnaniu,<br />okaż nam Jezusa,<br />błogosławiony owoc żywota Twego.<br /><br />O najmiłosierniejszy, o pobożny, o słodka Dziewico Maryjo!",
+			"contenido": "Witaj Królowo, Matko Miłosierdzia, życie, słodyczy i nadziejo nasza, witaj! Do Ciebie wołamy wygnańcy, synowie Ewy;<br />do Ciebie wzdychamy jęcząc i płacząc na tym łez padole. <br />Przeto, Orędowniczko nasza, one miłosierne oczy Twoje na nas zwróć, a Jezusa, błogosławiony owoc żywota Twojego, po tym wygnaniu nam okaż. <br />O łaskawa, o litościwa, o słodka Panno Maryjo!",
 			"imagen": "regina"
 		},
 		{
 			"id": "6",
-			"nombre": "Akt skruchy",
+			"nombre": "Akt żalu",
 			"icono": "jesus",
 			"desc": "Jest to sposób proszenia Jezusa o przebaczenie za nasze grzechy.",
-			"contenido": "Boże mój,<br />z całego serca żałuję za wszystkie moje grzechy<br />i nienawidzę ich,<br />ponieważ grzesząc, nie tylko zasługuję<br / > kary ustanowione przez Ciebie<br />słusznie,<br />ale głównie dlatego, że Cię imageniłem,<br />to dla Ciebie Najwyższe Dobro i godne miłości<br /> ponad wszystko.<br />To jest dlatego stanowczo proponuję ,<br />z pomocą Twojej łaski,<br />nie grzeszyć później<br />i uciekać od każdej okazji do grzechu.<br />Amen ",
+			"contenido": "Ach żałuję za me złości, jedynie dla Twej miłości. <br />Bądź miłościw mnie grzesznemu, dla Ciebie odpuszczam bliźniemu.",
 			"imagen": "signore"
 		},
 		{
 			"id": "7",
-			"nombre": "Wyznaję ...",
+			"nombre": "Spowiadam się Bogu...",
 			"icono": "confieso",
-			"desc": "Spowiedź generalna,że modlimy się na niedzielnej Mszy św.i w każdym innym czasie,że chcemy prosić o przebaczenie za grzechy powszednie.",
-			"contenido": "Wyznaję przed Bogiem Wszechmogącym,<br />i przed wami, bracia<br />że wiele zgrzeszyłem<br />myślą, słowem, uczynkiem i zaniechaniem.<br />Z powodu mnie, ponieważ z mojej winy, z powodu mojej wielkiej winy.<br />Dlatego błagam Najświętszą Maryję, zawsze Dziewicę,<br />anioły, świętych i braci,<br />o wstawiaj się za mną u Boga, Panie nasz.<br /><br />Amen. ",
+			"desc": "Spowiadam się Bogu wszechmogącemu * i wam bracia i siostry, *<br />że bardzo zgrzeszyłem * myślą, mową, uczynkiem i zaniedbaniem:<br />moja wina, moja wina, moja bardzo wielka wina. Przeto błagam<br />Najświętszą Maryję, zawsze Dziewicę * wszystkich Aniołów i<br />Świętych * i was, bracia i siostry, o modlitwę za mnie * do<br />Pana Boga naszego.",
 			"imagen": "confesso"
 		},
 		{
 			"id": "8",
-			"nombre": "Credo Nicei Konstantynopol",
+			"nombre": "Symbol nicejsko-konstantynopolitański",
 			"icono": "credo2",
 			"desc": "Pamiętamy nasz chrzest, wyznając naszą wiarę. Odmawiamy ją na niedzielnej mszy.",
-			"contenido": "Wierzę tylko w jednego Boga, Ojcze wszechmogący,<br />Stworzyciel nieba i ziemi,<br />wszystko widzialnego i niewidzialnego.<br /><br /> Wierzę tylko w jednego Pana, Jezus Chrystus, jedyny Syn Boży,<br />zrodzony z Ojca przed wszystkimi wiekami:<br />Bóg Boży, Światłość Światłości,<br /> prawdziwy Bóg prawdziwego Boga,<br />zrodzony, niestworzony,<br />tej samej natury co Ojciec,<br />przez którego wszystko zostało stworzone,<br />dla nas, ludzi,<br />i dla naszego zbawienia zstąpił z nieba,<br />i mocą Ducha Świętego<br /> wcielił się w Maryję Dziewicę i stał się człowiekiem,<br />i dla nas został ukrzyżowany<br />za czasów Poncjusza Piłata;<br /> cierpiał i został pogrzebany,<br />a trzeciego dnia zmartwychwstał, zgodnie z Pismem,<br />i wstąpił do nieba i zasiada po prawicy Ojca;<br />i będzie przyjdź ponownie w chwale<br />by sądzić żywych i umarłych,<br />a jego królestwu nie będzie końca.<br /><br />Wierzę w Ducha Świętego, Pana i Ożywiciela,<br />br /> który pochodzi od Ojca i Syna, z Ojcem i <br />Synem otrzymuje tę samą adorację i chwałę,<br /> i że przemawiał przez proroków.<br />Wierzę w Kościół,<br />który jest jeden , święty, katolicki i apostolski.<br />Wyznaję, że jest tylko jeden chrzest na odpuszczenie grzechów.<br />Oczekuję zmartwychwstania umarłych i życia przyszłego świata.<br /><br />Amen. ",
+			"contenido": "Wierzę w jednego Boga,<br />Ojca Wszechmogącego,<br />Stworzyciela nieba i ziemi,<br />wszystkich rzeczy widzialnych i niewidzialnych.<br /><br />I w jednego Pana Jezusa Chrystusa,<br />Syna Bożego Jednorodzonego,<br />który z Ojca jest zrodzony przed wszystkimi wiekami,<br />Bóg z Boga, Światłość ze Światłości,<br />Bóg prawdziwy z Boga prawdziwego.<br />Zrodzony a nie stworzony,<br />współistotny Ojcu,<br />a przez Niego wszystko się stało.<br />On to dla nas ludzi i dla naszego zbawienia zstąpił z nieba.<br />I za sprawą Ducha Świętego<br />przyjął ciało z Marii Dziewicy i stał się człowiekiem.<br />Ukrzyżowany również za nas,<br />pod Poncjuszem Piłatem został umęczony i pogrzebany.<br />I zmartwychwstał dnia trzeciego,<br />jak oznajmia Pismo.<br />I wstąpił do nieba, siedzi po prawicy Ojca.<br />I powtórnie przyjdzie w chwale, sądzić żywych i umarłych,<br />a Królestwu Jego nie będzie końca.<br /><br />Wierzę w Ducha Świętego, Pana i Ożywiciela,<br />który od Ojca i Syna pochodzi,<br />który z Ojcem i z Synem wspólnie odbiera uwielbienie i chwałę,<br />który mówił przez proroków.<br />Wierzę w jeden, święty, powszechny i apostolski Kościół.<br />Wyznaję jeden Chrzest na odpuszczenie grzechów.<br />I oczekuję wskrzeszenia umarłych<br />i życia wiecznego w przyszłym świecie.<br />Amen.",
 			"imagen": "niceno"
 		},
 		{
 			"id": "9",
-			"nombre": "Credo Apostołów",
+			"nombre": "Skład Apostolski",
 			"icono": "credo",
 			"desc": "Pamiętamy nasz chrzest, wyznając naszą wiarę. Odmawiamy ją na niedzielnej mszy.",
-			"contenido": "Wierzę w Boga, Ojcze Wszechmogący,<br />Stworzyciel nieba i ziemi.<br /><br />Wierzę w Jezusa Chrystusa, Jego jedynego Syna,<br /> naszego Pana, który był poczęty Z mocy i łaski Ducha Świętego,<br />narodził się z Najświętszej Maryi Panny,<br />cierpiał z mocy Poncjusza Piłata, został ukrzyżowany, umarł i został pochowany,<br /> zstąpił do piekła,<br /> trzeciego dnia powstał z martwych,<br />wstąpił do nieba<br /> i zasiada po prawicy Boga, Ojca Wszechmogącego.<br />Stamtąd przyjdzie sądzić żywych i umarłych.<br /><br />Wierzę w Ducha Świętego,<br />święty Kościół katolicki,<br />obcowanie świętych,<br />przebaczenie grzechów,<br />zmartwychwstania ciała<br />i życia wiecznego.<br /><br />Amen.",
+			"contenido": "Wierzę w Boga, Ojca Wszechmogącego, Stworzyciela nieba i ziemi. <br />I w Jezusa Chrystusa, Syna Jego Jedynego, Pana Naszego, który się począł z Ducha Świętego, narodził się z Maryi Panny. Umęczon pod Ponckim Piłatem ukrzyżowan, umarł i pogrzebion.<br />Zstąpił do piekieł. Trzeciego dnia zmartwychwstał; wstąpił na niebiosa, siedzi po prawicy Boga, Ojca wszechmogącego. Stamtąd przyjdzie sądzić żywych i umarłych. Wierzę w Ducha Świętego, święty Kościół powszechny, świętych obcowanie, grzechów odpuszczenie, ciała zmartwychwstanie, żywot wieczny. <br />Amen.",
 			"imagen": "apostolico"
 		},
 		{
@@ -81,10 +79,10 @@
 		},
 		{
 			"id": "11",
-			"nombre": "Anioł",
+			"nombre": "Anioł Pański",
 			"icono": "angel",
 			"desc": "Modlimy się w południe (12:00) przez cały rok, z wyjątkiem Wielkanocy.",
-			"contenido": "(Werset)<br />Anioł Pański zapowiedział Maryi.<br />(Odpowiedź)<br />I poczęła<br />z dzieła i łaski Ducha Świętego.<br />Boże Zdrowaś Maryjo,<br />jesteś pełna łaski,<br />Pan jest z Tobą.<br />Błogosławiona jesteś<br />między wszystkimi niewiastami,<br />błogosławiona jest owocem Twojego łona, Jezusie.<br />Święta Maryjo Matko Boża,<br />módl się za nami grzesznymi,<br />teraz iw godzinę śmierci naszej.<br />Amen.<br /><br />(werset)<br />Oto służebnica Pańska.<br />(Odpowiedź)<br />Niech mi się stanie według słowa twego.<br />Niech Bóg cię ratuje, Maryja...<br /><br /> (werset)<br />A Słowo Boże stało się ciałem.<br />(Odpowiedź)<br />I zamieszkało wśród nas.<br />, Maryjo...<br /><br /> (werset)<br />módl się za nami,<br />Święta Matko Boża,<br />(Odpowiedź)<br />abyśmy byli godni do spełnienia<br />obietnic Jezusa Chrystusa.<br /><br />Módlmy się:<br />Wlej, Panie,<br />Twoją łaskę w nasze dusze,<br />aby ci, których my wiedziałem, poprzez ogłoszenie Anioła,<br />wcielenia Twego Syna Jezusa Chrystusa,<br />przyjdźmy przez zasługi Jego męki i krzyża,<br />do chwały Zmartwychwstania.<br />Przez Jezusa Chrystus Pan nasz.<br />Amen.<br /><br />Chwała Ojcu...",
+			"contenido": "Anioł Pański zwiastował Pannie Maryi,<br />I poczęła z Ducha Świętego.<br /><br />Zdrowaś Maryjo...<br /><br />Oto ja służebnica Pańska,<br />Niech mi się stanie według słowa Twego.<br /><br />Zdrowaś Maryjo...<br /><br />A Słowo stało się ciałem,<br />I zamieszkało między nami.<br /><br />Zdrowaś Maryjo...<br /><br />P.  Módl się za nami, święta Boża Rodzicielko.<br />W. Abyśmy się stali godnymi obietnic Chrystusowych.<br /><br />Módlmy się: Łaskę Twoją, prosimy Cię, Panie, racz wlać w serca nasze, abyśmy, którzy za zwiastowaniem anielskim Wcielenie Chrystusa, Syna Twego poznali, przez mękę Jego i krzyż do chwały zmartwychwstania byli doprowadzeni. Przez Chrystusa Pana naszego. Amen.",
 			"imagen": "angelus"
 		},
 		{
