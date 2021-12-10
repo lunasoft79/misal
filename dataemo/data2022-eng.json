@@ -1,83 +1,83 @@
 {
     "data": [{
-        "titulo": "January",
+        "titulo": "Janoary",
         "subtitulo": "<span class='miniemoji'>💜 Available</span>",
         "contenido": "2022/enero2022-eng",
         "activo": "si",
         "imagen": "enero",
         "id": "1"
     }, {
-        "titulo": "February",
+        "titulo": "Febroary",
         "subtitulo": "<span class='miniemoji'>💜 Available</span>",
         "contenido": "2022/febrero2022-eng",
         "activo": "si",
         "imagen": "febrero",
         "id": "2"
     }, {
-        "titulo": "March",
+        "titulo": "Martsa",
         "subtitulo": "<span class='miniemoji2'>💔 Not Available Yet</span>",
         "contenido": "2022/marzo2022-eng",
         "activo": "no",
         "imagen": "marzo",
         "id": "3"
     }, {
-        "titulo": "April",
+        "titulo": "Aprily",
         "subtitulo": "<span class='miniemoji2'>💔 Not Available Yet</span>",
         "contenido": "2022/abril2022-eng",
         "activo": "no",
         "imagen": "abril",
         "id": "4"
     }, {
-        "titulo": "May",
+        "titulo": "Mey",
         "subtitulo": "<span class='miniemoji2'>💔 Not Available Yet</span>",
         "contenido": "2022/mayo2022-eng",
         "activo": "no",
         "imagen": "mayo",
         "id": "5"
     }, {
-        "titulo": "June",
+        "titulo": "Jiona",
         "subtitulo": "<span class='miniemoji2'>💔 Not Available Yet</span>",
         "contenido": "2022/junio2022-eng",
         "activo": "no",
         "imagen": "junio",
         "id": "6"
     }, {
-        "titulo": "July",
+        "titulo": "Jolay",
         "subtitulo": "<span class='miniemoji2'>💔 Not Available Yet</span>",
         "contenido": "2022/julio2022-eng",
         "activo": "no",
         "imagen": "julio",
         "id": "7"
     }, {
-        "titulo": "August",
+        "titulo": "Aogositra",
         "subtitulo": "<span class='miniemoji2'>💔 Not Available Yet</span>",
         "contenido": "2022/agosto2022-eng",
         "activo": "no",
         "imagen": "agosto",
         "id": "8"
     }, {
-        "titulo": "September",
+        "titulo": "Septambra",
         "subtitulo": "<span class='miniemoji2'>💔 Not Available Yet</span>",
         "contenido": "2022/septiembre2022-eng",
         "activo": "no",
         "imagen": "septiembre",
         "id": "9"
     }, {
-        "titulo": "October",
+        "titulo": "Oktobra",
         "subtitulo": "<span class='miniemoji2'>💔 Not Available Yet</span>",
         "contenido": "2022/octubre2022-eng",
         "activo": "no",
         "imagen": "octubre",
         "id": "10"
     }, {
-        "titulo": "November",
+        "titulo": "Novambra",
         "subtitulo": "<span class='miniemoji2'>💔 Not Available Yet</span>",
         "contenido": "2022/noviembre2022-eng",
         "activo": "no",
         "imagen": "noviembre",
         "id": "11"
     }, {
-        "titulo": "December",
+        "titulo": "Desambra",
         "subtitulo": "<span class='miniemoji2'>💔 Not Available Yet</span>",
         "contenido": "2022/diciembre2022-eng",
         "activo": "no",
