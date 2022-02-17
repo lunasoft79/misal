@@ -15,16 +15,16 @@
         "id": "2"
     }, {
         "titulo": "Marca",
-        "subtitulo": "<span class='miniemoji2'>💔 Niedostępne</span>",
+        "subtitulo": "<span class='miniemoji'>💜 Dostępny</span>",
         "contenido": "2022/marzo2022-pol",
-        "activo": "no",
+        "activo": "si",
         "imagen": "marzo",
         "id": "3"
     }, {
         "titulo": "Kwietnia",
-        "subtitulo": "<span class='miniemoji2'>💔 Niedostępne</span>",
+        "subtitulo": "<span class='miniemoji'>💜 Dostępny</span>",
         "contenido": "2022/abril2022-pol",
-        "activo": "no",
+        "activo": "si",
         "imagen": "abril",
         "id": "4"
     }, {
