@@ -29,9 +29,9 @@
         "id": "4"
     }, {
         "titulo": "Mayo de",
-        "subtitulo": "<span class='miniemoji2'>💔 No Disponible</span>",
+        "subtitulo": "<span class='miniemoji'>💜 Disponible</span>",
         "contenido": "2022/mayo2022-esp",
-        "activo": "no",
+        "activo": "si",
         "imagen": "mayo",
         "id": "5"
     }, {
