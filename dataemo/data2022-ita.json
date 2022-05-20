@@ -36,16 +36,16 @@
         "id": "5"
     }, {
         "titulo": "Giugno",
-        "subtitulo": "<span class='miniemoji2'>💔 Non Disponibile</span>",
+        "subtitulo": "<span class='miniemoji'>💜 A Disposizione</span>",
         "contenido": "2022/junio2022-ita",
-        "activo": "no",
+        "activo": "si",
         "imagen": "junio",
         "id": "6"
     }, {
         "titulo": "Luglio",
-        "subtitulo": "<span class='miniemoji2'>💔 Non Disponibile</span>",
+        "subtitulo": "<span class='miniemoji'>💜 A Disposizione</span>",
         "contenido": "2022/julio2022-ita",
-        "activo": "no",
+        "activo": "si",
         "imagen": "julio",
         "id": "7"
     }, {
