@@ -36,23 +36,23 @@
         "id": "5"
     }, {
         "titulo": "Juni",
-        "subtitulo": "<span class='miniemoji2'>💔 Nicht Verfügbar</span>",
+        "subtitulo": "<span class='miniemoji'>💜 Verfügbar</span>",
         "contenido": "2022/junio2022-ale",
-        "activo": "no",
+        "activo": "si",
         "imagen": "junio",
         "id": "6"
     }, {
         "titulo": "Juli",
-        "subtitulo": "<span class='miniemoji2'>💔 Nicht Verfügbar</span>",
+        "subtitulo": "<span class='miniemoji'>💜 Verfügbar</span>",
         "contenido": "2022/julio2022-ale",
-        "activo": "no",
+        "activo": "si",
         "imagen": "julio",
         "id": "7"
     }, {
         "titulo": "August",
-        "subtitulo": "<span class='miniemoji2'>💔 Nicht Verfügbar</span>",
+        "subtitulo": "<span class='miniemoji'>💜 Verfügbar</span>",
         "contenido": "2022/agosto2022-ale",
-        "activo": "no",
+        "activo": "si",
         "imagen": "agosto",
         "id": "8"
     }, {
