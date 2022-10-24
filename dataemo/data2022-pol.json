@@ -71,16 +71,16 @@
         "id": "10"
     }, {
         "titulo": "Listopada",
-        "subtitulo": "<span class='miniemoji2'>💔 Niedostępne</span>",
+        "subtitulo": "<span class='miniemoji'>💜 Dostępny</span>",
         "contenido": "2022/noviembre2022-pol",
-        "activo": "no",
+        "activo": "si",
         "imagen": "noviembre",
         "id": "11"
     }, {
         "titulo": "Grudnia",
-        "subtitulo": "<span class='miniemoji2'>💔 Niedostępne</span>",
+        "subtitulo": "<span class='miniemoji'>💜 Dostępny</span>",
         "contenido": "2022/diciembre2022-pol",
-        "activo": "no",
+        "activo": "si",
         "imagen": "diciembre",
         "id": "12"
     }]
