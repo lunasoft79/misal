@@ -1,16 +1,16 @@
 {
     "data": [{
         "titulo": "Janeiro",
-        "subtitulo": "<span class='miniemoji2'>💔 Não Disponível</span>",
+        "subtitulo": "<span class='miniemoji'>💜 Acessível</span>",
         "contenido": "2023/enero2023-por",
-        "activo": "no",
+        "activo": "si",
         "imagen": "enero",
         "id": "1"
     }, {
         "titulo": "Fevereiro",
-        "subtitulo": "<span class='miniemoji2'>💔 Não Disponível</span>",
+        "subtitulo": "<span class='miniemoji'>💜 Acessível</span>",
         "contenido": "2023/febrero2023-por",
-        "activo": "no",
+        "activo": "si",
         "imagen": "febrero",
         "id": "2"
     }, {
