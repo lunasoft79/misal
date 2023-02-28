@@ -15,9 +15,9 @@
         "id": "2"
     }, {
         "titulo": "Marzo de",
-        "subtitulo": "<span class='miniemoji2'>💔 No Disponible</span>",
+        "subtitulo": "<span class='miniemoji'>💜 Disponible</span>",
         "contenido": "2023/marzo2023",
-        "activo": "no",
+        "activo": "si",
         "imagen": "marzo",
         "id": "3"
     }, {
