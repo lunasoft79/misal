@@ -1,7 +1,11 @@
 {
 	"data": [{
-		"titulo": "Book of Psalms",
+		"titulo": "King James Version",
 		"id": "1",
 		"libro": "ls-en-kjv"
+	},{
+		"titulo": "American Standard Version",
+		"id": "1",
+		"libro": "ls-en-asv"
 	}]
 }
