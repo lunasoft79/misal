@@ -5,7 +5,11 @@
 		"libro": "ls-en-kjv"
 	},{
 		"titulo": "American Standard Version",
-		"id": "1",
+		"id": "2",
 		"libro": "ls-en-asv"
+	},{
+		"titulo": "World English Bible",
+		"id": "3",
+		"libro": "ls-en-web"
 	}]
 }
