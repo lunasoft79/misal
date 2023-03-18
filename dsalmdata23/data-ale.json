@@ -1,7 +1,25 @@
 {
 	"data": [{
-		"titulo": "Buch der Psalmen",
+		"titulo": "Schlachter 1951",
 		"id": "1",
 		"libro": "ls-al-schlachter"
+	},{
+		"titulo": "Elberfelder 1871",
+		"id": "2",
+		"libro": "ls-al-elberfelder1871"
+	},{
+		"titulo": "Elberfelder 1905",
+		"id": "3",
+		"libro": "ls-al-elberfelder1905"
+	},{
+		"titulo": "Luther 1545",
+		"id": "4",
+		"libro": "ls-al-luther1545"
+	},{
+		"titulo": "Luther 1912",
+		"id": "5",
+		"libro": "ls-al-luther1912"
 	}]
+}
+]
 }
