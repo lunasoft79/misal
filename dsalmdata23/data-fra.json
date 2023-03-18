@@ -1,7 +1,19 @@
 {
 	"data": [{
-		"titulo": "Livre des Psaumes",
+		"titulo": "Bible Darby",
 		"id": "1",
 		"libro": "ls-fr-darby"
+	},{
+		"titulo": "Louis Segond 1910",
+		"id": "2",
+		"libro": "ls-fr-ls"
+	},{
+		"titulo": "Martin 1744",
+		"id": "3",
+		"libro": "ls-fr-ls"
+	},{
+		"titulo": "Ostervald 1996",
+		"id": "4",
+		"libro": "ls-fr-ls"
 	}]
 }
