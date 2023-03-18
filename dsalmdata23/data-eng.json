@@ -11,5 +11,9 @@
 		"titulo": "World English Bible",
 		"id": "3",
 		"libro": "ls-en-web"
+	},{
+		"titulo": "Youngs Literal Translation",
+		"id": "4",
+		"libro": "ls-en-ylt"
 	}]
 }
