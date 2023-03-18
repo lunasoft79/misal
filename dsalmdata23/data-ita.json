@@ -1,7 +1,11 @@
 {
 	"data": [{
-		"titulo": "Libro dei Salmi",
+		"titulo": "Riveduta Bible",
 		"id": "1",
 		"libro": "ls-it-riveduta"
+	},{
+		"titulo": "Giovanni Diodati Bible",
+		"id": "2",
+		"libro": "ls-en-gdb"
 	}]
 }
