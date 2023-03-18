@@ -1,10 +1,10 @@
 {
 	"data": [{
-		"titulo": "Riveduta Bible",
+		"titulo": "Riveduta Bibbia",
 		"id": "1",
 		"libro": "ls-it-riveduta"
 	},{
-		"titulo": "Giovanni Diodati Bible",
+		"titulo": "Giovanni Diodati Bibbia",
 		"id": "2",
 		"libro": "ls-en-gdb"
 	}]
