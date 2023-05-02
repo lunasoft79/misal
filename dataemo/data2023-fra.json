@@ -36,9 +36,9 @@
         "id": "5"
     }, {
         "titulo": "Juin",
-        "subtitulo": "<span class='miniemoji2'>💔 Pas Disponible</span>",
+        "subtitulo": "<span class='miniemoji'>💜 Disponible</span>",
         "contenido": "2023/junio2023-fra",
-        "activo": "no",
+        "activo": "si",
         "imagen": "junio",
         "id": "6"
     }, {
