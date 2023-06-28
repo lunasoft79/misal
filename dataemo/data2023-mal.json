@@ -43,16 +43,16 @@
         "id": "6"
     }, {
         "titulo": "Jolay",
-        "subtitulo": "<span class='miniemoji2'>💔 Tsy Misy</span>",
+        "subtitulo": "<span class='miniemoji'>💜 Available</span>",
         "contenido": "2023/julio2023-mal",
-        "activo": "no",
+        "activo": "si",
         "imagen": "julio",
         "id": "7"
     }, {
         "titulo": "Aogositra",
-        "subtitulo": "<span class='miniemoji2'>💔 Tsy Misy</span>",
+        "subtitulo": "<span class='miniemoji'>💜 Available</span>",
         "contenido": "2023/agosto2023-mal",
-        "activo": "no",
+        "activo": "si",
         "imagen": "agosto",
         "id": "8"
     }, {
