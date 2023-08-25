@@ -57,28 +57,28 @@
         "id": "8"
     }, {
         "titulo": "Septembre",
-        "subtitulo": "<span class='miniemoji2'>💔 Pas Disponible</span>",
+        "subtitulo": "<span class='miniemoji'>💜 Disponible</span>",
         "contenido": "2023/septiembre2023-fra",
-        "activo": "no",
+        "activo": "si",
         "imagen": "septiembre",
         "id": "9"
     }, {
         "titulo": "Octobre",
-        "subtitulo": "<span class='miniemoji2'>💔 Pas Disponible</span>",
+        "subtitulo": "<span class='miniemoji'>💜 Disponible</span>",
         "contenido": "2023/octubre2023-fra",
-        "activo": "no",
+        "activo": "si",
         "imagen": "octubre",
         "id": "10"
     }, {
         "titulo": "Novembre",
-        "subtitulo": "<span class='miniemoji2'>💜 Disponible</span>",
+        "subtitulo": "<span class='miniemoji2'>💔 Pas Disponible</span>",
         "contenido": "2023/noviembre2023-fra",
         "activo": "no",
         "imagen": "noviembre",
         "id": "11"
     }, {
         "titulo": "Décembre",
-        "subtitulo": "<span class='miniemoji2'>💜 Disponible</span>",
+        "subtitulo": "<span class='miniemoji2'>💔 Pas Disponible</span>",
         "contenido": "2023/diciembre2023-fra",
         "activo": "no",
         "imagen": "diciembre",
