@@ -1,18 +1,9 @@
 {
     "data": [{
-        "titulo": "2020",
-        "activo": "si",
-    }, {
-        "titulo": "2021",
-        "activo": "si",
-    }, {
-        "titulo": "2022",
-        "activo": "si",
-    }, {
         "titulo": "2023",
         "activo": "si",
     }, {
-        "titulo": "2024",
+        "titulo": "2022",
         "activo": "si",
     }]
 }
