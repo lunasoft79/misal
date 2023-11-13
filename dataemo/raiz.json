@@ -1,9 +1,7 @@
 {
     "data": [{
-        "titulo": "2023",
-        "activo": "si"
+        "titulo": "2023"
     }, {
-        "titulo": "2022",
-        "activo": "si"
+        "titulo": "2022"
     }]
 }
