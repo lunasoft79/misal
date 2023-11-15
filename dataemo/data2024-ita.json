@@ -1,9 +1,9 @@
 {
     "data": [{
         "titulo": "Gennaio",
-        "subtitulo": "<span class='miniemoji2'>💔 Non Disponibile</span>",
+        "subtitulo": "<span class='miniemoji'>💜 A Disposizione</span>",
         "contenido": "2024/enero2024-ita",
-        "activo": "no",
+        "activo": "si",
         "imagen": "enero",
         "id": "1"
     }, {

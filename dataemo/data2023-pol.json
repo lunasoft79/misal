@@ -78,9 +78,9 @@
         "id": "11"
     }, {
         "titulo": "Grudnia",
-        "subtitulo": "<span class='miniemoji2'>💔 Niedostępne</span>",
+        "subtitulo": "<span class='miniemoji'>💜 Dostępny</span>",
         "contenido": "2023/diciembre2023-pol",
-        "activo": "no",
+        "activo": "si",
         "imagen": "diciembre",
         "id": "12"
     }]
