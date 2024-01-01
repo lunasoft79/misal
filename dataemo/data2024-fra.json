@@ -8,9 +8,9 @@
         "id": "1"
     }, {
         "titulo": "Février",
-        "subtitulo": "<span class='miniemoji2'>💔 Pas Disponible</span>",
+        "subtitulo": "<span class='miniemoji'>💜 Disponible</span>",
         "contenido": "2024/febrero2024-fra",
-        "activo": "no",
+        "activo": "si",
         "imagen": "febrero",
         "id": "2"
     }, {
