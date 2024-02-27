@@ -22,9 +22,9 @@
         "id": "3"
     }, {
         "titulo": "Abril de",
-        "subtitulo": "<span class='miniemoji'>💜 Disponible</span>",
+        "subtitulo": "<span class='miniemoji2'>💔 No Disponible</span>",
         "contenido": "2024/abril2024",
-        "activo": "si",
+        "activo": "no",
         "imagen": "abril",
         "id": "4"
     }, {
