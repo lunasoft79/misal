@@ -15,16 +15,16 @@
         "id": "2"
     }, {
         "titulo": "Martsa",
-        "subtitulo": "<span class='miniemoji2'>💔 Tsy Misy</span>",
+        "subtitulo": "<span class='miniemoji'>💜 Available</span>",
         "contenido": "2024/marzo2024-mal",
-        "activo": "no",
+        "activo": "si",
         "imagen": "marzo",
         "id": "3"
     }, {
         "titulo": "Aprily",
-        "subtitulo": "<span class='miniemoji2'>💔 Tsy Misy</span>",
+        "subtitulo": "<span class='miniemoji'>💜 Available</span>",
         "contenido": "2024/abril2024-mal",
-        "activo": "no",
+        "activo": "si",
         "imagen": "abril",
         "id": "4"
     }, {
