@@ -29,16 +29,16 @@
         "id": "4"
     }, {
         "titulo": "May",
-        "subtitulo": "<span class='miniemoji2'>💔 Not Available Yet</span>",
+        "subtitulo": "<span class='miniemoji'>💜 Available</span>",
         "contenido": "2024/mayo2024-eng",
-        "activo": "no",
+        "activo": "si",
         "imagen": "mayo",
         "id": "5"
     }, {
         "titulo": "June",
-        "subtitulo": "<span class='miniemoji2'>💔 Not Available Yet</span>",
+        "subtitulo": "<span class='miniemoji'>💜 Available</span>",
         "contenido": "2024/junio2024-eng",
-        "activo": "no",
+        "activo": "si",
         "imagen": "junio",
         "id": "6"
     }, {

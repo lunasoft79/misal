@@ -29,16 +29,16 @@
         "id": "4"
     }, {
         "titulo": "Maja",
-        "subtitulo": "<span class='miniemoji2'>💔 Niedostępne</span>",
+        "subtitulo": "<span class='miniemoji2'>💜 Dostępny</span>",
         "contenido": "2024/mayo2024-pol",
-        "activo": "no",
+        "activo": "si",
         "imagen": "mayo",
         "id": "5"
     }, {
         "titulo": "Czerwca",
-        "subtitulo": "<span class='miniemoji2'>💔 Niedostępne</span>",
+        "subtitulo": "<span class='miniemoji2'>💜 Dostępny</span>",
         "contenido": "2024/junio2024-pol",
-        "activo": "no",
+        "activo": "si",
         "imagen": "junio",
         "id": "6"
     }, {
