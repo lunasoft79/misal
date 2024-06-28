@@ -43,16 +43,16 @@
         "id": "6"
     }, {
         "titulo": "Lipca",
-        "subtitulo": "<span class='miniemoji2'>💔 Niedostępne</span>",
+        "subtitulo": "<span class='miniemoji2'>💜 Dostępny</span>",
         "contenido": "2024/julio2024-pol",
-        "activo": "no",
+        "activo": "si",
         "imagen": "julio",
         "id": "7"
     }, {
         "titulo": "Sierpnia",
-        "subtitulo": "<span class='miniemoji2'>💔 Niedostępne</span>",
+        "subtitulo": "<span class='miniemoji2'>💜 Dostępny</span>",
         "contenido": "2024/agosto2024-pol",
-        "activo": "no",
+        "activo": "si",
         "imagen": "agosto",
         "id": "8"
     }, {
