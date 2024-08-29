@@ -57,16 +57,16 @@
         "id": "8"
     }, {
         "titulo": "Septambra",
-        "subtitulo": "<span class='miniemoji2'>💔 Tsy Misy</span>",
+        "subtitulo": "<span class='miniemoji'>💜 Available</span>",
         "contenido": "2024/septiembre2024-mal",
-        "activo": "no",
+        "activo": "si",
         "imagen": "septiembre",
         "id": "9"
     }, {
         "titulo": "Oktobra",
-        "subtitulo": "<span class='miniemoji2'>💔 Tsy Misy</span>",
+        "subtitulo": "<span class='miniemoji'>💜 Available</span>",
         "contenido": "2024/octubre2024-mal",
-        "activo": "no",
+        "activo": "si",
         "imagen": "octubre",
         "id": "10"
     }, {

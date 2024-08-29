@@ -57,16 +57,16 @@
         "id": "8"
     }, {
         "titulo": "Septiembre de",
-        "subtitulo": "<span class='miniemoji2'>💔 No Disponible</span>",
+        "subtitulo": "<span class='miniemoji'>💜 Disponible</span>",
         "contenido": "2024/septiembre2024-esp",
-        "activo": "no",
+        "activo": "si",
         "imagen": "septiembre",
         "id": "9"
     }, {
         "titulo": "Octubre de",
-        "subtitulo": "<span class='miniemoji2'>💔 No Disponible</span>",
+        "subtitulo": "<span class='miniemoji'>💜 Disponible</span>",
         "contenido": "2024/octubre2024-esp",
-        "activo": "no",
+        "activo": "si",
         "imagen": "octubre",
         "id": "10"
     }, {

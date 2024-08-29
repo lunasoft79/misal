@@ -57,16 +57,16 @@
         "id": "8"
     }, {
         "titulo": "Września",
-        "subtitulo": "<span class='miniemoji2'>💔 Niedostępne</span>",
+        "subtitulo": "<span class='miniemoji'>💜 Dostępny</span>",
         "contenido": "2024/septiembre2024-pol",
-        "activo": "no",
+        "activo": "si",
         "imagen": "septiembre",
         "id": "9"
     }, {
         "titulo": "Października",
-        "subtitulo": "<span class='miniemoji2'>💔 Niedostępne</span>",
+        "subtitulo": "<span class='miniemoji'>💜 Dostępny</span>",
         "contenido": "2024/octubre2024-pol",
-        "activo": "no",
+        "activo": "si",
         "imagen": "octubre",
         "id": "10"
     }, {
